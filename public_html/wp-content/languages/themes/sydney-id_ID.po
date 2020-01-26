@@ -1,0 +1,2053 @@
+# Translation of Themes - Sydney in Indonesian
+# This file is distributed under the same license as the Themes - Sydney package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-12 02:48:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Sydney\n"
+
+#. Description of the theme
+msgid "Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. As well as being fully compatible with Elementor, Sydney brings plenty of customization possibilities like access to all Google Fonts, full color control, layout control, logo upload, full screen slider, header image, sticky navigation and much more. Also, Sydney provides all the construction blocks you need to rapidly create an engaging front page."
+msgstr "Sydney adalah tema untuk keperluan bisnis yang handal dan merupakan solusi cepat bagi badan usaha atau pekerja lepas yang ingin membuat situs web ciamik. Selain kompatibel dengan Elementor, Sydney juga mudah disesuaikan seperti akses ke semua Google Fonts, pengaturan seluruh warna, tata letak, unggah logo, slider selayar penuh, gambar header, menu melayang dan banyak lagi. Sydney juga menyediakan seluruh konstruksi blok yang anda butuhkan untuk menciptakan halaman muka yang menarik secara cepat. "
+
+#. Theme Name of the theme
+#: inc/theme-info.php:129
+msgid "Sydney"
+msgstr "Sydney"
+
+#: inc/customizer.php:305 inc/customizer.php:1921
+msgid "or go to the Customizer"
+msgstr "atau masuk ke Sesuaikan"
+
+#: inc/customizer.php:287 inc/customizer.php:1905
+msgid "Click the pencil icon to change this text"
+msgstr "Klik ikon pensil untuk mengubah teks ini"
+
+#: inc/theme-info.php:56
+msgid "Install: Elementor"
+msgstr "Pasang: Elementor"
+
+#. Template Name of the theme
+msgid "No sidebar"
+msgstr "Tanpa bilah sisi"
+
+#. Template Name of the theme
+msgid "Page builder ready"
+msgstr "Mendukung page builder"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Aktifkan %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Perbarui %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Pasang %2$s"
+
+#: plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Tidak ada plugin untuk dipasang, perbarui atau aktifkan"
+
+#. translators: 1: install status, 2: update status
+#: plugins/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: plugins/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: plugins/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Ada satu atau lebih plugin yang diwajibkan atau direkomendasikan untuk dipasang, perbarui atau aktifkan."
+
+#. translators: %s: plugin name.
+#: plugins/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Memperbarui Plugin: %s"
+
+#: inc/template-tags.php:81
+msgctxt "post date"
+msgid "Posted %s"
+msgstr "Diposkan %s"
+
+#: inc/customizer.php:1360
+msgid "Single post title size"
+msgstr "Ukuran judul pos tunggal"
+
+#: inc/customizer.php:817 inc/customizer.php:1847
+msgid "Classic (alternative)"
+msgstr "Klasik (alternatif)"
+
+#: inc/theme-info.php:241
+msgid "Buy Sydney Pro "
+msgstr "Beli Sydney Pro"
+
+#: inc/theme-info.php:235
+msgid "Priority support"
+msgstr "Dukungan prioritas"
+
+#: inc/theme-info.php:230
+msgid "5 Extra Page Templates (Contact, Featured Header - Default, Featured Header - Wide, No Header - Default, No Header - Wide)"
+msgstr "5 templat laman tambahan (Kontak, Header dengan Gambar Tajuk - Standar, Header dengan Gambar Tajuk  - Lebar, Tanpa Header - Standar, Tanpa Header - Lebar)"
+
+#: inc/theme-info.php:225
+msgid "WooCommerce compatible"
+msgstr "Kompatibel dengan WooCommerce"
+
+#: inc/theme-info.php:220
+msgid "Single Post/Page Options"
+msgstr "Opsi Pos/Laman Tunggal"
+
+#: inc/theme-info.php:215
+msgid "Header support for shortcodes"
+msgstr "Header mendukung shortcode"
+
+#: inc/theme-info.php:210
+msgid "Header support for Crelly Slider"
+msgstr "Header mendukung Crelly Slider"
+
+#: inc/theme-info.php:205
+msgid "Extra Customizer Options (Front Page Section Titles, Single Employees, Single Projects, Header Contact Info, Buttons)"
+msgstr "Opsi Penyesuaian Tambahan (Bagian Judul Laman Depan, Tenaga Kerja Tunggal, Proyek Tunggal, Informasi Kontak di Header, Tombol-tombol) "
+
+#: inc/theme-info.php:200
+msgid "Extra widgets (timeline, latest news in carousel, pricing tables, a new employees widget and a new contact widget)"
+msgstr "Widget tambahan (Linimasa, pos baru dalam carousel, tabel harga, widget tenaga kerja baru dan widget kontak baru)"
+
+#: inc/theme-info.php:195
+msgid "Footer Credits option"
+msgstr "Opsi Kredit Footer"
+
+#: inc/theme-info.php:190
+msgid "Background image support"
+msgstr "Mendukung gambar latar belakang"
+
+#: inc/theme-info.php:185
+msgid "Widgetized footer"
+msgstr "Footer berwidget"
+
+#: inc/theme-info.php:175
+msgid "Color options"
+msgstr "Opsi warna"
+
+#: inc/theme-info.php:170
+msgid "Polylang integration"
+msgstr "Integrasi Polylang"
+
+#: inc/theme-info.php:165
+msgid "Translation ready"
+msgstr "Bisa diterjemahkan"
+
+#: inc/theme-info.php:160
+msgid "Front Page Blocks"
+msgstr "Blok-blok Halaman Muka"
+
+#: inc/theme-info.php:155
+msgid "Slider, image or video header"
+msgstr "Slider, gambar atau vidio header"
+
+#: inc/theme-info.php:150
+msgid "Social Icons"
+msgstr "Ikon-ikon sosial media"
+
+#: inc/theme-info.php:145
+msgid "Parallax backgrounds"
+msgstr "Latar belakang parallax"
+
+#: inc/theme-info.php:135
+msgid "Access to all Google Fonts"
+msgstr "Akses ke semua Google Fonts"
+
+#: inc/theme-info.php:130
+msgid "Sydney Pro"
+msgstr "Sydney Pro"
+
+#: inc/theme-info.php:128
+msgid "Feature"
+msgstr "Fitur"
+
+#: inc/theme-info.php:120
+msgid "See the Documentation"
+msgstr "Lihat dokumentasi"
+
+#: inc/theme-info.php:119
+msgid "Our documentation can help you learn how to use the theme and also provides you with premade code snippets and answers to FAQs."
+msgstr "Dokumentasi membantu anda mempelajari bagaimana cara menggunakan tema dan juga menyediakan kode-kode pendek siap pakai serta jawaban pertanyaan-pertanyaan yang sering ditanyakan. "
+
+#: inc/theme-info.php:114
+msgid "Visit the forums"
+msgstr "Kunjungi forum"
+
+#: inc/theme-info.php:113
+msgid "Need help? Go ahead and visit our support forums and we'll be happy to assist you with any theme related questions you might have"
+msgstr "Perlu bantuan? Langsung saja kunjungi forum dukungan dan kami dengan senang hati akan membantu menjawab pertanyaan-pertanyaan apa pun (yang anda punya) berkaitan dengan tema. "
+
+#: inc/theme-info.php:112
+msgid "Visit our forums"
+msgstr "Kunjungi forum kami"
+
+#: inc/theme-info.php:103
+msgid "Go to the manual importer"
+msgstr "Kunjungi pengimpor manual"
+
+#: inc/theme-info.php:102
+msgid "Download demo content"
+msgstr "Unduh konten demo"
+
+#: inc/theme-info.php:101
+msgid "Download the following demo content file and then click the button to go to the WordPress default importer."
+msgstr "Unduh file konten demo berikut dan selanjutnya klik tombol kunjungi pengimpor bawaan dari WordPress."
+
+#: inc/theme-info.php:100
+msgid "Option 2 - manual"
+msgstr "Opsi 2 - manual"
+
+#: inc/theme-info.php:96
+msgid "Go to the automatic importer"
+msgstr "Kunjungi pengimpor otomatis"
+
+#: inc/theme-info.php:92
+msgid "Go to the importer"
+msgstr "Kunjungi pengimpor"
+
+#: inc/theme-info.php:85
+msgid "Install the following plugin and then come back here to access the importer. With it you can import all demo content and change your homepage and blog page to the ones from our demo site, automatically. It will also assign a menu."
+msgstr "Pasang plugin berikut dan kemudian kembali ke sini untuk mengakses pengimpor. Dengan itu anda dapat mengimpor semua konten demo dan mengubah laman beranda dan blog dari situs demo secara otomatis. Serta sebuah menu akan otomatis diaktifkan pada tahap ini. "
+
+#: inc/theme-info.php:84
+msgid "Option 1 - automatic"
+msgstr "Opsi 1 - otomatis"
+
+#: inc/theme-info.php:70
+msgid "It is highly recommend that you install Sydney Toolbox. It will create custom post types like services and employees for you to use on your website."
+msgstr "Anda sangat direkomendasikan untuk memasang Sydney Toolbox. Plugin ini akan membuat tipe pos kustom seperti layanan dan tenaga kerja; untuk digunakan di situs anda. "
+
+#: inc/theme-info.php:69
+msgid "Install: Sydney Toolbox"
+msgstr "Pasang: Sydney Toolbox"
+
+#: inc/theme-info.php:65 inc/theme-info.php:77 inc/theme-info.php:95
+msgid "Plugin installed and active!"
+msgstr "Plugin terpasang dan aktif!"
+
+#: inc/theme-info.php:62 inc/theme-info.php:74 inc/theme-info.php:91
+msgid "Install and Activate"
+msgstr "Pasang dan Aktifkan"
+
+#: inc/theme-info.php:57
+msgid "It is highly recommended that you install Elementor. It will enable you to create pages by adding widgets to them using drag and drop."
+msgstr "Anda sangat dianjurkan untuk memasang Elementor. Plugin ini membantu anda membuat laman dengan menambahkan widget di dalamnya dengan tarik dan taruh (drag/drop). "
+
+#: inc/theme-info.php:52
+msgid "Go to Customizer"
+msgstr "Kunjungi Penyesuai"
+
+#: inc/theme-info.php:51
+msgid "Use the Customizer to make Sydney your own."
+msgstr "Gunakan Penyesuai untuk menggunakan Sydney sesuai keperluan anda. "
+
+#: inc/theme-info.php:50
+msgid "Step 3 - Customize"
+msgstr "Langkah 3 - Sesuaikan"
+
+#: inc/theme-info.php:47
+msgid "Our documentation (including video tutorials) will have you up and running in no time."
+msgstr "Dokumentasi (yang meliputi video tutorial) akan membuat anda sedia dan bekerja dengan cepat. "
+
+#: inc/theme-info.php:46
+msgid "Step 2 - Read documentation"
+msgstr "Langkah 2 - Baca dokumentasi"
+
+#: inc/theme-info.php:44
+msgid "Check recommended actions"
+msgstr "Cek aksi yang direkomendasikan"
+
+#: inc/theme-info.php:43
+msgid "We've made a list of steps for you to follow to get the most of Sydney."
+msgstr "Kita telah membuat daftar langkah-langkah untuk membantu anda bekerja dengan Sydney secara penuh."
+
+#: inc/theme-info.php:42
+msgid "Step 1 - Implement recommended actions"
+msgstr "Langkah 1 - Terapkan aksi-aksi yang direkomendasikan"
+
+#: inc/theme-info.php:36
+msgid "Free vs Pro"
+msgstr "Gratis vs Pro"
+
+#: inc/theme-info.php:34
+msgid "Recommended Actions"
+msgstr "Aksi yang direkomendasikan"
+
+#: inc/theme-info.php:33
+msgid "Getting started"
+msgstr "Mulai"
+
+#: inc/theme-info.php:27
+msgid "Sydney is now installed and ready to go. To help you with the next step, we’ve gathered together on this page all the resources you might need. We hope you enjoy using Sydney. "
+msgstr "Sydney sudah diinstal dan siap dipakai. Untuk bantuan ke langkah selanjutnya, kita telah menyertakan seluruh informasi yang anda butuhkan di halaman ini. Kami harap anda senang menggunakan Sydney. "
+
+#: inc/theme-info.php:26
+msgid "Welcome to Sydney version %s"
+msgstr "Selamat datang di Sydney versi %s"
+
+#: inc/theme-info.php:25
+msgid "Hello, %s,"
+msgstr "Halo, %s,"
+
+#: functions.php:464
+msgid "Get started with Sydney"
+msgstr "Mulai dengan Sydney"
+
+#: functions.php:463
+msgid "Welcome to Sydney. To get started please make sure to visit our <a href=\"%s\">welcome page</a>."
+msgstr "Selamat datang di Sydney. Untuk memulai, kunjungi <a href=\"%s\">laman selamat datang</a> kami."
+
+#: inc/theme-info.php:140 inc/customizer.php:211 inc/customizer.php:1863
+msgid "Responsive"
+msgstr "Responsif"
+
+#: inc/customizer.php:210 inc/customizer.php:1862
+msgid "Full screen"
+msgstr "Layar penuh"
+
+#: inc/customizer.php:206
+msgid "Slider mobile behavior"
+msgstr "Perilaku slider di gawai"
+
+#: widgets/video-widget.php:32
+msgid "Text before the play button (only for lightbox mode):"
+msgstr "Text sebelum tombol mainkan (hanya untuk moda lightbox)"
+
+#: widgets/video-widget.php:29
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: widgets/video-widget.php:28
+msgid "Normal"
+msgstr "Normal"
+
+#: widgets/video-widget.php:26
+msgid "Video mode:"
+msgstr "Moda video:"
+
+#: inc/customizer.php:1570
+msgid "Mobile menu button"
+msgstr "Tombol menu di gawai"
+
+#: inc/customizer.php:1511
+msgid "Menu items hover"
+msgstr "Bayangan item menu"
+
+#: inc/customizer.php:156 inc/customizer.php:179 inc/customizer.php:1791
+msgid "Video"
+msgstr "Video"
+
+#: inc/theme-info.php:80
+msgid "Demo content"
+msgstr "Konten demo"
+
+#: inc/page-builder.php:65
+msgid "Add a value in the field to change the top/bottom row padding, otherwise 100px will be applied by default"
+msgstr "Tambahkan nilai di kolom untuk mengubah padding atas/bawas pada baris, jika kosong maka nilainya otomatis 100px"
+
+#: widgets/fp-services-type-a.php:46 widgets/fp-services-type-b.php:54
+msgid "Excerpt"
+msgstr "Nukilan"
+
+#: widgets/fp-services-type-a.php:45 widgets/fp-services-type-b.php:53
+msgid "Full content"
+msgstr "Konten penuh"
+
+#: widgets/fp-services-type-a.php:43 widgets/fp-services-type-b.php:51
+msgid "Content to display:"
+msgstr "Konten yang ditampilkan:"
+
+#: inc/upsell/class-customize.php:77
+msgid "Get Sydney Pro"
+msgstr "Dapatkan Sydney Pro"
+
+#: inc/upsell/class-customize.php:76
+msgid "Ready for more?"
+msgstr "Siap untuk lebih lanjut?"
+
+#: inc/page-builder.php:198
+msgid "This applies to all headings in the widget, except the widget title"
+msgstr "Berlaku untuk semua heading di widget, kecuali judul widget"
+
+#: inc/page-builder.php:194
+msgid "Headings color"
+msgstr "Warna heading"
+
+#: inc/page-builder.php:187
+msgid "Widget title color"
+msgstr "Warna judul widget"
+
+#: inc/page-builder.php:183
+msgid "This setting depends on the content, it may or may not work"
+msgstr "Pengaturan ini bergantung pada konten, ini bisa atau tidak bisa bekerja"
+
+#: inc/page-builder.php:180
+msgid "Right"
+msgstr "Kanan"
+
+#: inc/page-builder.php:179
+msgid "Center"
+msgstr "Tengah"
+
+#: inc/page-builder.php:178
+msgid "Left"
+msgstr "Kiri"
+
+#: inc/page-builder.php:174
+msgid "Content alignment"
+msgstr "Perataan konten"
+
+#: inc/page-builder.php:113
+msgid "Overlay color"
+msgstr "Warna lapisan "
+
+#: inc/page-builder.php:107
+msgid "Disable row overlay?"
+msgstr "Non-aktifkan lapisan baris? "
+
+#: inc/customizer.php:1751
+msgid "[DEPRECATED] Please use the color option from Edit Row > Design > Overlay color"
+msgstr "[CACAT] Tolong gunakan opsi warna dari Sunting Baris > Desain > Warna lapisan "
+
+#: inc/customizer.php:1377
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer.php:1372
+msgid "Colors"
+msgstr "Warna"
+
+#: widgets/fp-portfolio.php:163
+msgid "Show project title?"
+msgstr "Tampilkan judul proyek? "
+
+#: widgets/fp-portfolio.php:160
+msgid "\"Show all\" text:"
+msgstr "Teks \"Tampil semua\":"
+
+#: widgets/fp-portfolio.php:159
+msgid "Show navigation filter? (Category slugs must be specified)."
+msgstr "Tampilkan saringan navigasi? (Slug kategori harus ditentukan)"
+
+#: widgets/fp-portfolio.php:156
+msgid "Enter the slugs (comma separated) for your categories or leave empty to show all projects."
+msgstr "Masukan sebuah slug atau lebih (pisahkan dengan tanda koma) untuk kategori anda atau biarkan kosong untuk menampilkan semua proyek."
+
+#: widgets/fp-portfolio.php:154
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "Jumlah proyek yang tampil (-1 menampilkan semuanya):"
+
+#: widgets/fp-portfolio.php:35 widgets/fp-portfolio.php:148
+msgid "Show all"
+msgstr "Tampilkan semua"
+
+#: widgets/fp-portfolio.php:13
+msgid "Sydney FP: Portfolio"
+msgstr "Sydney FP: Portofolio"
+
+#: widgets/fp-portfolio.php:12
+msgid "Display your projects in a grid."
+msgstr "Tampilkan proyek anda dalam kisi."
+
+#: inc/customizer.php:108
+msgid "Page wrapper - bottom padding"
+msgstr "Pembungkus laman - padding bawah"
+
+#: widgets/fp-clients.php:35
+msgid "Open clients links in a new tab?"
+msgstr "Buka tautan klien di tab baru?"
+
+#: inc/customizer.php:111
+msgid "Bottom padding for the page wrapper (the space between the page content and the footer)"
+msgstr "Padding bawah untuk pembungkus laman (jarak antara isi laman dan footer)"
+
+#: inc/customizer.php:101
+msgid "100"
+msgstr "100"
+
+#: inc/customizer.php:88
+msgid "Top padding for the page wrapper (the space between the header and the page title)"
+msgstr "Padding atas untuk pembungkus laman (jarak antara header dan judul laman)"
+
+#: inc/customizer.php:85
+msgid "Page wrapper - top padding"
+msgstr "Pembungkus laman - padding atas"
+
+#: inc/customizer.php:78
+msgid "83"
+msgstr "83"
+
+#: inc/theme-info.php:35
+msgid "Support"
+msgstr "Dukungan"
+
+#: widgets/fp-testimonials.php:33
+msgid "Autoplay time [ms]"
+msgstr "Waktu main otomatis [ms]"
+
+#: inc/theme-info.php:16
+msgid "Sydney Info"
+msgstr "Info Sydney"
+
+#: inc/theme-info.php:48 inc/theme-info.php:118
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Tidak ada plugin terpilih yang akan diaktifkan. Tidak ada aksi yang dipilih."
+
+#: plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Tidak ada plugin terpilih yang akan diperbarui. Tidak ada aksi yang dipilih."
+
+#: plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Saat ini tidak tersedia plugin untuk diperbarui."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memperbarui Plugin %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Tidak ada plugin terpilih yang akan dipasang. Tidak ada aksi yang dipilih."
+
+#: plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Pesan pembaruan dari pembuat plugin:"
+
+#: plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Pembaruan"
+
+#: plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tidak jelas"
+
+#: plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versi minimal yang diwajibkan: "
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk diaktifkan <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk diaktifkan <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versi terpasang:"
+
+#: plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versi tersedia:"
+
+#: plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versi"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Untuk dipasang <span class=\"count\">(%s)</span>"
+msgstr[1] "Untuk dipasang <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+msgstr[1] "Tersedia Pembaruan <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Tidak Tersedia Pembaruan yang Diwajibkan"
+
+#: plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Disarankan Diperbarui"
+
+#: plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Wajib Diperbarui"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Semua <span class=\"count\">(%s)</span>"
+msgstr[1] "Semua <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Paket plugin asal tidak berisi folder dengan slug yang susai dan penggantian nama tidak berhasil. "
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Tersedia pembaruan untuk: %1$s."
+msgstr[1] "Tersedia pembaruan untuk plugin-plugin berikut: %1$s."
+
+#: plugins/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Memulai pembaruan plugin"
+msgstr[1] "Memulai pembaruan plugin"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak ada aksi yang diambil. Plugin %1$s sudah aktif lebih dulu. "
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin tidak diaktifkan. Versi terbaru dari %s diperlukan untuk tema ini. Harap perbarui plugin."
+
+#: plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Tolong hubungi pengelola situs ini untuk bantuan."
+
+#: plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin ini harus diperbarui agar kompatibel dengan tema anda."
+
+#: plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Wajib Diperbarui"
+
+#: plugins/class-tgm-plugin-activation.php:934
+#: plugins/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Tolong hubungi pembuat plugin dan tanyakan agar mengemas plugin mereka sesuai panduan dari WordPress. "
+
+#: plugins/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Paket plugin asal berisi lebih dari satu file, namun file-file tersebut tidak disertakan di dalam satu folder. "
+
+#: plugins/class-tgm-plugin-activation.php:1121
+#: plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "dan"
+
+#: plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktif"
+
+#: plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Sumber Luar"
+
+#: plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Ada yang salah dengan API plugin."
+
+#. Template Name of the theme
+msgid "Full width"
+msgstr "Lebar penuh"
+
+#. Template Name of the theme
+msgid "Front Page"
+msgstr "Laman Muka"
+
+#: widgets/video-widget.php:24
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Tempel salinan URL video (hanya dari jaringan yang mendukung oEmbed, seperti YouTube, Vimeo dll.):"
+
+#: widgets/video-widget.php:7
+msgid "Sydney: Video"
+msgstr "Sydney: Video"
+
+#: widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr "Tampilkan video dari YouTube, Videmo dll."
+
+#: widgets/fp-testimonials.php:108
+msgid "See all our testimonials"
+msgstr "Lihat semua testimonial kami"
+
+#: widgets/fp-testimonials.php:31
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr "Masukkan slug untuk kategori anda atau biarkan kosong untuk menampilkan semua testimonial."
+
+#: widgets/fp-testimonials.php:29
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "Teks untuk tombol [Jika kosong otomatis tampil <em>Lihat semua testimonial kami</em>]"
+
+#: widgets/fp-testimonials.php:27
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr "URL tombol [Jika ingin menampilkan tombol di bawah blok testimonial]"
+
+#: widgets/fp-testimonials.php:25
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "Jumlah testimonial yang tampil (-1 menampilkan semuanya):"
+
+#: widgets/fp-testimonials.php:20
+msgid "In order to display this widget, you must first add some testimonials from your admin area."
+msgstr "Supaya widget ini tampil, maka anda harus menambahkan beberapa testimonial dari area dasbor anda. "
+
+#: widgets/fp-testimonials.php:7
+msgid "Sydney FP: Testimonials"
+msgstr "Sydney FP: Testimonial"
+
+#: widgets/fp-testimonials.php:6
+msgid "Display your testimonials in a slider."
+msgstr "Tampilkan testimonial anda dalam slider."
+
+#: widgets/fp-social.php:64
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Pilih &mdash;"
+
+#: widgets/fp-social.php:62
+msgid "Select your social menu:"
+msgstr "Pilih menu media sosial anda:"
+
+#: widgets/fp-social.php:60
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr "Untuk menampilkan ikon media sosial di dalam widget, yang harus anda lakukan adalah mengunjungi <strong>Tampilan > Menu</strong> dan buatlah sebuah menu yang berisi tautan ke profil media sosial anda, kemudian pilih menu tersebut di sini. Jaringan yang didukung: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+
+#: widgets/fp-social.php:52
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Tidak ada menu yang telah dibuat. <a href=\"%s\">Buat beberapa</a>."
+
+#: widgets/fp-social.php:6
+msgid "Sydney FP: Social Profile"
+msgstr "Sydney FP: Profil Sosial"
+
+#: widgets/fp-social.php:5
+msgid "Display your social profile on your front page"
+msgstr "Tampilkan profil media sosial anda pada laman depan"
+
+#: widgets/fp-skills.php:68
+msgid "Fourth skill value"
+msgstr "Nilai keahlian keempat"
+
+#: widgets/fp-skills.php:63
+msgid "Fourth skill name"
+msgstr "Nama keahlian ketiga"
+
+#: widgets/fp-skills.php:57
+msgid "Third skill value"
+msgstr "Nilai keahlian ketiga"
+
+#: widgets/fp-skills.php:52
+msgid "Third skill name"
+msgstr "Nama keahlian ketiga"
+
+#: widgets/fp-skills.php:46
+msgid "Second skill value"
+msgstr "Nilai keahlian kedua"
+
+#: widgets/fp-skills.php:41
+msgid "Second skill name"
+msgstr "Nama keahlian kedua"
+
+#: widgets/fp-skills.php:35
+msgid "First skill value"
+msgstr "Nilai keahlian pertama"
+
+#: widgets/fp-skills.php:30
+msgid "First skill name"
+msgstr "Nama keahlian pertama"
+
+#: widgets/fp-skills.php:7
+msgid "Sydney FP: Skills"
+msgstr "Sydney FP: Keahlian"
+
+#: widgets/fp-skills.php:6
+msgid "Show your visitors some of your skills."
+msgstr "Tunjukkan beberapa keahlian ke pengunjung situs anda."
+
+#: widgets/fp-services-type-b.php:41
+msgid "Number of columns:"
+msgstr "Jumlah Kolom:"
+
+#: widgets/fp-services-type-b.php:12
+msgid "Sydney FP: Services type B"
+msgstr "Sydney FP: Layanan tipe B"
+
+#: widgets/fp-services-type-a.php:145 widgets/fp-services-type-b.php:160
+msgid "See all our services"
+msgstr "Lihat semua layanan kami"
+
+#: widgets/fp-services-type-a.php:42
+msgid "Display services in two columns instead of three?"
+msgstr "Tampilkan layanan dalam dua kolom ketimbang tiga?"
+
+#: widgets/fp-services-type-a.php:39 widgets/fp-services-type-b.php:38
+msgid "Enter the slug for your category or leave empty to show all services."
+msgstr "Masukkan slug kategori anda atau biarkan kosong untuk menampilkan semua layanan."
+
+#: widgets/fp-services-type-a.php:37 widgets/fp-services-type-b.php:36
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "Teks untuk tombol [Jika kosong otomatis tampil <em>Lihat semua layanan kami</em>]"
+
+#: widgets/fp-services-type-a.php:35 widgets/fp-services-type-b.php:34
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr "URL untuk tombol anda [Jika ingin menampilkan sebuah tombol di bawah blok layanan anda]"
+
+#: widgets/fp-services-type-a.php:33 widgets/fp-services-type-b.php:32
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "Jumlah layanan yang tampil (-1 menampilkan semuanya):"
+
+#: widgets/fp-services-type-a.php:28 widgets/fp-services-type-b.php:27
+msgid "In order to display this widget, you must first add some services from your admin area."
+msgstr "Supaya widget ini tampil, maka pertama-tama anda harus menambahkan beberapa layanan dari area admin anda. "
+
+#: widgets/fp-services-type-a.php:12
+msgid "Sydney FP: Services Type A"
+msgstr "Sydney FP: Layanan Tipe A"
+
+#: widgets/fp-services-type-a.php:11 widgets/fp-services-type-b.php:11
+msgid "Show what services you are able to provide."
+msgstr "Tampilkan layanan apa saja yang bisa anda kerjakan. "
+
+#: widgets/fp-list.php:75
+msgid "Call to action button text:"
+msgstr "Teks tombol pemantik aksi:"
+
+#: widgets/fp-list.php:72
+msgid "Call to action button URL:"
+msgstr "URL tombol pamantik: "
+
+#: widgets/fp-list.php:69
+msgid "Add your list items here. One item per row, start each row with <strong>^</strong>. Example: <strong>^ list item </strong>"
+msgstr "Tambahkan daftar item di sini. Satu item tiap baris. Awali dengan <strong>^</strong>. Contoh: <strong>^ daftar item </strong>"
+
+#: widgets/fp-list.php:66
+msgid "Add a bit of text here. It will be displayed."
+msgstr "Tambahkan beberapa teks di sini. Teks tersebut akan ditampilkan."
+
+#: widgets/fp-list.php:63 widgets/fp-portfolio.php:152 widgets/fp-social.php:57
+msgid "Title:"
+msgstr "Judul:"
+
+#: widgets/fp-list.php:13
+msgid "Sydney FP: List"
+msgstr "Sydney FP: Daftar"
+
+#: widgets/fp-list.php:11
+msgid "A simple list widget"
+msgstr "Widget daftar sederhana"
+
+#: widgets/fp-latest-news.php:51 widgets/fp-latest-news.php:53
+msgid "See all our news"
+msgstr "Lihat semua berita kami"
+
+#: widgets/fp-latest-news.php:26
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "Tambahkan teks untuk tombol di sini jika anda ingin mengubah teks bawaan <em>Lihat semua berita kami</em>"
+
+#: widgets/fp-latest-news.php:23
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Masukkan slug untuk kategori anda atau biarkan kosong untuk menampilkan pos dari semua kategori. "
+
+#: widgets/fp-latest-news.php:7
+msgid "Sydney FP: Latest News"
+msgstr "Sydney FP: Berita Terbaru"
+
+#: widgets/fp-latest-news.php:6
+msgid "Show the latest news from your blog."
+msgstr "Tampilkan berita terbaru dari blog anda."
+
+#: widgets/fp-facts.php:96
+msgid "Fourth fact icon"
+msgstr "Ikon fakta keempat"
+
+#: widgets/fp-facts.php:91
+msgid "Fourth fact value"
+msgstr "Nilai fakta keempat"
+
+#: widgets/fp-facts.php:86
+msgid "Fourth fact name"
+msgstr "Nama fakta keempat"
+
+#: widgets/fp-facts.php:80
+msgid "Third fact icon"
+msgstr "Ikon fakta ketiga"
+
+#: widgets/fp-facts.php:75
+msgid "Third fact value"
+msgstr "Nilai fakta ketiga"
+
+#: widgets/fp-facts.php:70
+msgid "Third fact name"
+msgstr "Nama fakta ketiga"
+
+#: widgets/fp-facts.php:64
+msgid "Second fact icon"
+msgstr "Ikon fakta kedua"
+
+#: widgets/fp-facts.php:59
+msgid "Second fact value"
+msgstr "Nilai fakta kedua"
+
+#: widgets/fp-facts.php:54
+msgid "Second fact name"
+msgstr "Nama fakta kedua"
+
+#: widgets/fp-facts.php:48
+msgid "First fact icon"
+msgstr "Ikon fakta pertama"
+
+#: widgets/fp-facts.php:43
+msgid "First fact value"
+msgstr "Nilai fakta pertama"
+
+#: widgets/fp-facts.php:38
+msgid "First fact name"
+msgstr "Nama fakta pertama"
+
+#: widgets/fp-facts.php:30
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr "Contoh penggunaan: <strong>fa-android</strong>"
+
+#: widgets/fp-facts.php:30
+msgid "here."
+msgstr "di sini."
+
+#: widgets/fp-facts.php:30
+msgid "You can find a list of the available icons "
+msgstr "Anda dapat menemukan daftar ikon-ikon yang tersedia. "
+
+#: widgets/fp-facts.php:8
+msgid "Sydney FP: Facts"
+msgstr "Sydney FP: Fakta"
+
+#: widgets/fp-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "Tampilkan beberapa fakta tentang bisnis anda kepada pengunjung."
+
+#: widgets/fp-employees.php:140
+msgid "See all our employees"
+msgstr "Lihat semua tenaga kerja kami"
+
+#: widgets/fp-employees.php:35
+msgid "Center the employees? (use only if you have 1 or 2 employees)"
+msgstr "Tengahkan tenaga kerja? (jika anda hanya punya 1 atau 2 tenaga kerja)"
+
+#: widgets/fp-employees.php:32
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr "Masukkan slug untuk kategori anda atau biarkan kosong untuk menampilkan semua tenaga kerja. "
+
+#: widgets/fp-employees.php:30
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "Teks untuk tombol [Jika kosong otomatis tampil <em>Lihat semua tenaga kerja</em>]"
+
+#: widgets/fp-employees.php:28
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr "Masukkan URL di sini jika anda ingin menampilkan sebuah tombol yang menaut ke suatu laman/situs. "
+
+#: widgets/fp-employees.php:26
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "Jumlah tenaga kerja yang tampil (-1 menampilkan semuanya):"
+
+#: widgets/fp-employees.php:21
+msgid "In order to display this widget, you must first add some employees from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "Supaya widget ini tampil, pertama-pertama anda harus menambahkan beberapa tenaga kerja dari dasbor. Tambahkan sebanyak yang anda inginkan dan tema akan secara otomatis menampilkan semuanya."
+
+#: widgets/fp-employees.php:7
+msgid "Sydney FP: Employees"
+msgstr "Sydney FP: Tenaga Kerja"
+
+#: widgets/fp-employees.php:6
+msgid "Display your team members in a stylish way."
+msgstr "Tampilkan anggota tim anda dengan menarik."
+
+#: widgets/fp-clients.php:111
+msgid "See all our clients"
+msgstr "Lihat semua klien kami"
+
+#: widgets/fp-clients.php:32
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr "Masukkan slug untuk kategori anda atau biarkan kosong untuk menampilkan semua klien."
+
+#: widgets/fp-clients.php:30
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr "Teks untuk tombol [Jika kosong otomatis tampil <em>Lihat semua klien kami</em>]"
+
+#: widgets/fp-clients.php:28
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr "URL untuk tombol [Jika ingin sebuah tombol tampil di bawah blok klien anda]"
+
+#: widgets/fp-clients.php:26
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr "Jumlah klien yang tampil (-1 menampilkan semua)"
+
+#: widgets/fp-clients.php:21
+msgid "In order to display this widget, you must first add some clients from your admin area. Set your client logos as featured images."
+msgstr "Untuk menggunakan widget ini, pertama-tama anda harus menambahkan beberapa klien dari area admin. Atur logo klien anda sebagai gambar andalan."
+
+#: widgets/fp-clients.php:7
+msgid "Sydney FP: Clients"
+msgstr "Sydney FP: Klien"
+
+#: widgets/fp-clients.php:6
+msgid "Display your clients list."
+msgstr "Tampilkan daftar klien anda. "
+
+#: widgets/fp-call-to-action.php:27
+msgid "Display the button inline with the text?"
+msgstr "Tampilkan tombol sejajar dengan teks? "
+
+#: widgets/fp-call-to-action.php:24
+msgid "Title for the button"
+msgstr "Judul tombol"
+
+#: widgets/fp-call-to-action.php:22
+msgid "Link for the button"
+msgstr "Tautan untuk tombol"
+
+#: widgets/fp-call-to-action.php:20
+msgid "Enter your call to action."
+msgstr "Masukkan teks pemantik aksi anda."
+
+#: widgets/fp-call-to-action.php:7
+msgid "Sydney FP: Call to action"
+msgstr "Sydney FP: Pemantik aksi"
+
+#: widgets/fp-call-to-action.php:6
+msgid "Display a call to action block."
+msgstr "Tampilkan blok pemantik aksi."
+
+#: widgets/contact-info.php:30
+msgid "Enter your email address"
+msgstr "Masukkan alamat email anda"
+
+#: widgets/contact-info.php:27
+msgid "Enter your phone number"
+msgstr "Masukkan nomol telfon anda"
+
+#: widgets/contact-info.php:24
+msgid "Enter your address"
+msgstr "Masukkan alamat anda"
+
+#: widgets/fp-employees.php:23 widgets/fp-call-to-action.php:18
+#: widgets/contact-info.php:20 widgets/fp-latest-news.php:19
+#: widgets/fp-skills.php:24 widgets/fp-testimonials.php:22
+#: widgets/fp-services-type-a.php:30 widgets/video-widget.php:20
+#: widgets/fp-clients.php:23 widgets/fp-services-type-b.php:29
+#: widgets/fp-facts.php:32
+msgid "Title"
+msgstr "Judul"
+
+#: widgets/contact-info.php:7
+msgid "Sydney: Contact info"
+msgstr "Sydney: Info kontak"
+
+#: widgets/contact-info.php:6
+msgid "Display your contact info"
+msgstr "Tampilkan kontak info anda"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Hasil Pencarian untuk: %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang Plugin %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Semua pemasangan sudah selesai."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s berhasil dipasang."
+
+#: plugins/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses pemasangan sedang dimulai. Proses ini mungkin berlangsung beberapa saat pada hosting tertentu, jadi harap bersabar. "
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang dan Mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Semua pemasangan dan pengaktifan sudah selesai."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Sembunyikan Detil"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Tunjukkan Detil"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s sukses dipasang dan diaktifkan."
+
+#: plugins/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proses pemasangan dan pengaktifan sedang dimulai. Proses ini mungkin memerlukan waktu beberapa saat di hosting tertentu, harap bersabar. "
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Pemasangan %1$s gagal."
+
+#. translators: 1: plugin name, 2: error message.
+#: plugins/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi kesalahan pada saat pemasangan %1$s: <strong>%2$s</strong>."
+
+#: plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Aktivasi plugin gagal."
+
+#: plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Tidak tersedia plugin untuk diaktifkan pada saat ini."
+
+#: plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak tersedia plugin untuk dipasang saat ini."
+
+#: plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Pasang"
+
+#: plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Jenis"
+
+#: plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Sumber"
+
+#: plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Terpasang Namun Tidak Diaktifkan"
+
+#: plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Tidak terinstal"
+
+#: plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "DIREKOMENDASIKAN"
+
+#: plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Wajib"
+
+#: plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositori WordPress"
+
+#: plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Disertakan sebelumnya"
+
+#: plugins/class-tgm-plugin-activation.php:386
+#: plugins/class-tgm-plugin-activation.php:827
+#: plugins/class-tgm-plugin-activation.php:2533
+#: plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Tutup catatan ini"
+
+#. translators: 1: dashboard link.
+#: plugins/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin telah dipasang dan berhasil diaktifkan. %1$s"
+
+#: plugins/class-tgm-plugin-activation.php:388
+#: plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin berikut ini telah berhasil diaktifkan: "
+msgstr[1] "Plugin-plugin berikut ini telah berhasil diaktifkan: "
+
+#: plugins/class-tgm-plugin-activation.php:387
+#: plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin telah berhasil diaktifkan."
+
+#: plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Pemasang Plugin yang Diwajibkan"
+
+#: plugins/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Mulai mengaktifkan plugin"
+msgstr[1] "Mulai mengaktifkan plugin"
+
+#: plugins/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Mulai memasang plugin"
+msgstr[1] "Mulai memasang plugin"
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Plugin berikut perlu diperbarui ke versi terbaru untuk memastikan kompatibilitas yang maksimal dengan tema ini: %1$s."
+msgstr[1] "Plugin berikut perlu diperbarui ke versi terbaru untuk memastikan kompatibilitas yang maksimal dengan tema ini: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yang direkomendasikan berikut, saat ini tidak aktif: %1$s."
+msgstr[1] "Plugin yang direkomendasikan berikut, saat ini tidak aktif: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yang diwajibkan berikut, saat ini tidak aktif: %1$s."
+msgstr[1] "Plugin yang diwajibkan berikut, saat ini tidak aktif: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Tema merekomendarikan plugin berikut: %1$s."
+msgstr[1] "Tema merekomendarikan plugin-plugin berikut: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Tema mewajibkan plugin di bawah ini: %1$s."
+msgstr[1] "Tema mewajibkan plugin-plugin di bawah ini: %1$s."
+
+#. translators: %s: plugin name.
+#: plugins/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Memasang Plugin: %s"
+
+#: plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Pasang Plugin"
+
+#: plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Pasang plugin yang diwajibkan"
+
+#: inc/template-tags.php:173
+msgid "Archives"
+msgstr "Arsip"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:171
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:167
+msgid "Archives: %s"
+msgstr "Arsip: %s"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chat"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Tautan"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Kutipan"
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Gambar"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeri"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Aside"
+
+#: inc/template-tags.php:145
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/template-tags.php:145
+msgid "Day: %s"
+msgstr "Hari: %s"
+
+#: inc/template-tags.php:143
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:143
+msgid "Month: %s"
+msgstr "Bulan: %s"
+
+#: inc/template-tags.php:141
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:141
+msgid "Year: %s"
+msgstr "Tahun: %s"
+
+#: inc/template-tags.php:139
+msgid "Author: %s"
+msgstr "Penulis: %s"
+
+#: inc/template-tags.php:137
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:135
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:115
+msgid " %1$s"
+msgstr " %1$s"
+
+#: inc/template-tags.php:100
+msgid "Posted in %1$s"
+msgstr "Diposkan di %1$s"
+
+#: inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:94
+msgid "% Comments"
+msgstr "% Komentar"
+
+#: inc/template-tags.php:94
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/template-tags.php:94
+msgid "Leave a comment"
+msgstr "Tinggalkan komentar"
+
+#: inc/template-tags.php:86
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:277
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Diposkan pada %s"
+
+#: inc/template-tags.php:51
+msgid "Post navigation"
+msgstr "Navigasi Tulisan"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Pos-pos terbaru"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Pos-pos terdahulu"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigasi tulisan"
+
+#: inc/page-builder.php:101
+msgid "45px"
+msgstr "45px"
+
+#: inc/page-builder.php:100
+msgid "30px"
+msgstr "30px"
+
+#: inc/page-builder.php:99
+msgid "15px"
+msgstr "15px"
+
+#: inc/page-builder.php:98
+msgid "0"
+msgstr "0"
+
+#: inc/page-builder.php:97
+msgid "Default"
+msgstr "Standar"
+
+#: inc/page-builder.php:95
+msgid "Here you can select a top/bottom row padding for screen sizes < 1024px"
+msgstr "Di sini anda bisa memilih padding atas/bawah untuk layar berukuran kurang dari 1024px"
+
+#: inc/page-builder.php:93
+msgid "Mobile padding"
+msgstr "Padding di gawai"
+
+#: inc/page-builder.php:87
+msgid "Background image of the row."
+msgstr "Gambar latar belakang dari baris."
+
+#: inc/page-builder.php:85
+msgid "Background Image"
+msgstr "Gambar Latar belakang "
+
+#: inc/page-builder.php:80
+msgid "Color of the row."
+msgstr "Warna baris."
+
+#: inc/page-builder.php:78
+msgid "Color"
+msgstr "Warna"
+
+#: inc/page-builder.php:72
+msgid "This may or may not work. It depends on the widget styles."
+msgstr "Opsi ini mungkin atau tidak mungkin bisa bekerja. Tergantung pada gaya widget. "
+
+#: inc/page-builder.php:70
+msgid "Center align the content?"
+msgstr "Ratakan tengah konten? "
+
+#: inc/page-builder.php:63
+msgid "Top/bottom padding"
+msgstr "Padding atas/bawah"
+
+#: inc/page-builder.php:57
+msgid "Bottom Border Color"
+msgstr "Warna Bingkai Bawah"
+
+#: inc/page-builder.php:44
+msgid "Sydney Theme Widgets"
+msgstr "Widget-widget dari Tema Sydney"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Laman %s"
+
+#: inc/customizer.php:1792
+msgid "Nothing (only menu)"
+msgstr "Jangan tampilkan apapun (hanya menu)"
+
+#: inc/customizer.php:1764
+msgid "2. A full theme demo can be found "
+msgstr "2. Seluruh demo tema tidak dapat ditemukan"
+
+#: inc/customizer.php:1764
+msgid "1. Documentation for Sydney can be found "
+msgstr "1. Dokumentasi untuk Sydney tidak dapat ditemukan"
+
+#: inc/customizer.php:1762
+msgid "Theme info"
+msgstr "Info Tema"
+
+#: inc/customizer.php:1749
+msgid "Rows overlay"
+msgstr "Lapisan baris"
+
+#: inc/customizer.php:1730
+msgid "Footer color"
+msgstr "Warna footer"
+
+#: inc/customizer.php:1710
+msgid "Footer background"
+msgstr "Latar belakang footer"
+
+#: inc/customizer.php:1690
+msgid "Footer widget area color"
+msgstr "Warna area widget footer"
+
+#: inc/customizer.php:1670
+msgid "Footer widget area background"
+msgstr "Latar belakang area widget footer"
+
+#: inc/customizer.php:1650
+msgid "Sidebar color"
+msgstr "Warna bilah sisi"
+
+#: inc/customizer.php:1630
+msgid "Sidebar background"
+msgstr "Latar belakang bilah sisi"
+
+#: inc/customizer.php:1610
+msgid "Body text"
+msgstr "Teks isi"
+
+#: inc/customizer.php:1590
+msgid "Header slider text"
+msgstr "Teks slider header"
+
+#: inc/customizer.php:1551
+msgid "Sub-menu background"
+msgstr "Latar belakang sub-menu"
+
+#: inc/customizer.php:1532
+msgid "Sub-menu items"
+msgstr "Item sub-menu"
+
+#: inc/customizer.php:1492
+msgid "Top level menu items"
+msgstr "Item menu level atas"
+
+#: inc/customizer.php:1431
+msgid "Menu background"
+msgstr "Latar belakang menu"
+
+#: inc/customizer.php:1411
+msgid "Primary color"
+msgstr "Warna primer"
+
+#: inc/customizer.php:1341
+msgid "Body font size"
+msgstr "Ukuran font isi"
+
+#: inc/customizer.php:1322
+msgid "H6 font size"
+msgstr "Ukuran huruf H6"
+
+#: inc/customizer.php:1303
+msgid "H5 font size"
+msgstr "Ukuran huruf H5"
+
+#: inc/customizer.php:1284
+msgid "H4 font size"
+msgstr "Ukuran huruf H4"
+
+#: inc/customizer.php:1265
+msgid "H3 font size"
+msgstr "Ukuran huruf H3"
+
+#: inc/customizer.php:1246
+msgid "H2 font size"
+msgstr "Ukuran huruf H2"
+
+#: inc/customizer.php:1227
+msgid "H1 font size"
+msgstr "Ukuran huruf H1"
+
+#: inc/customizer.php:1208
+msgid "Menu items"
+msgstr "Item menu"
+
+#: inc/customizer.php:1189 inc/customizer.php:1472
+msgid "Site description"
+msgstr "Deskripsi Situs"
+
+#: inc/customizer.php:1170 inc/customizer.php:1451
+msgid "Site title"
+msgstr "Judul Situs"
+
+#: inc/customizer.php:1152
+msgid "Font sizes"
+msgstr "Ukuran Font"
+
+#: inc/customizer.php:1104
+msgid "Headings fonts"
+msgstr "Font heading"
+
+#: inc/customizer.php:1090 inc/customizer.php:1138
+msgid "Font family"
+msgstr "Keluarga fonta"
+
+#: inc/customizer.php:1073 inc/customizer.php:1121
+msgid "Font name/style/sets"
+msgstr "Nama/gaya/set font"
+
+#: inc/customizer.php:1056
+msgid "Body fonts"
+msgstr "Font isi"
+
+#: inc/customizer.php:1045
+msgid "Google Fonts can be found here: google.com/fonts. See the documentation if you need help in selecting Google Fonts: athemes.com/documentation/sydney"
+msgstr "Google Fonts bisa ditemukan di sini: google.com/fonts. Baca dokumentasi untuk bantuan dalam memilih Google Fonts: athemes.com/documentation/sydney"
+
+#: inc/customizer.php:1043
+msgid "Fonts"
+msgstr "Font"
+
+#: inc/customizer.php:1032 inc/customizer.php:1823
+msgid "Four"
+msgstr "Empat"
+
+#: inc/customizer.php:1031 inc/customizer.php:1822
+msgid "Three"
+msgstr "Tiga"
+
+#: inc/customizer.php:1030 inc/customizer.php:1821
+msgid "Two"
+msgstr "Dua"
+
+#: inc/customizer.php:1029 inc/customizer.php:1820
+msgid "One"
+msgstr "Satu"
+
+#: inc/customizer.php:1027
+msgid "Select the number of widget areas you want in the footer. After that, go to Appearance > Widgets and add your widgets."
+msgstr "Pilih jumlah area widget yang anda inginkan di footer. Setelah itu, kunjungi Tampilan > Sesuaikan dan tambahkan widget anda."
+
+#: inc/customizer.php:1025
+msgid "Footer widget area"
+msgstr "Area widget kaki"
+
+#: inc/customizer.php:1009 inc/customizer.php:1393
+msgid "Footer"
+msgstr "Kaki Halaman"
+
+#: inc/customizer.php:996
+msgid "Check this box to hide featured images on single posts"
+msgstr "Centang kotak ini untuk menyembunyikan gambar andalan pada pos tunggal"
+
+#: inc/customizer.php:980
+msgid "Check this box to hide featured images on index, archives etc."
+msgstr "Centang kotak ini untuk menyembunyikan gambar andalan pada indeks, arsip dll."
+
+#: inc/customizer.php:963
+msgid "Featured images"
+msgstr "Gambar Andalan"
+
+#: inc/customizer.php:950
+msgid "Hide post meta on singles?"
+msgstr "Sembunyikan meta pos pada pos tunggal? "
+
+#: inc/customizer.php:933
+msgid "Hide post meta on index, archives?"
+msgstr "Sembunyikan meta pos pada laman indeks dan arsip?"
+
+#: inc/customizer.php:915
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/customizer.php:900
+msgid "Choose your excerpt length. Default: 55 words"
+msgstr "Pilih panjang nukilan anda. Bawaan: 55 kata"
+
+#: inc/customizer.php:899
+msgid "Excerpt length"
+msgstr "Panjang nukilan"
+
+#: inc/customizer.php:882
+msgid "Check this box to display the full content of your posts on all archives."
+msgstr "Centang kotak ini untuk menampilkan konten penuh dari pos anda di semua laman arsip. "
+
+#: inc/customizer.php:866
+msgid "Check this box to display the full content of your posts on the home page."
+msgstr "Centang kotak ini untuk menampilkan konten penuh dari pos anda di laman beranda. "
+
+#: inc/customizer.php:848
+msgid "Content/excerpt"
+msgstr "Konten/nukilan"
+
+#: inc/customizer.php:835
+msgid "Full width single posts?"
+msgstr "Pos tunggal lebar penuh?"
+
+#: inc/customizer.php:820 inc/customizer.php:1850
+msgid "Masonry (grid style)"
+msgstr "Masonry (gaya kisi)"
+
+#: inc/customizer.php:819 inc/customizer.php:1849
+msgid "Full width (no sidebar)"
+msgstr "Lebar penuh (tanpa bilah sisi)"
+
+#: inc/customizer.php:816 inc/customizer.php:1846
+msgid "Classic"
+msgstr "Klasik"
+
+#: inc/customizer.php:812
+msgid "Blog layout"
+msgstr "Blog Layout"
+
+#: inc/customizer.php:795
+msgid "Layout"
+msgstr "Tata letak"
+
+#: inc/theme-info.php:180 inc/customizer.php:783
+msgid "Blog options"
+msgstr "Opsi blog"
+
+#: inc/customizer.php:771
+msgid "Upload your logo"
+msgstr "Unggah logo anda"
+
+#: inc/customizer.php:753
+msgid "Disable the overlay?"
+msgstr "Nonaktifkan pelapis?"
+
+#: inc/customizer.php:735
+msgid "Header height [default: 300px]"
+msgstr "Tinggi header [bawaan: 300px]"
+
+#: inc/customizer.php:719 inc/customizer.php:1809
+msgid "Contain"
+msgstr "Terkandung"
+
+#: inc/customizer.php:718 inc/customizer.php:1808
+msgid "Cover"
+msgstr "Sampul"
+
+#: inc/customizer.php:715
+msgid "Header background size"
+msgstr "Ukuran latar belakang header"
+
+#: inc/customizer.php:698 inc/customizer.php:1875
+msgid "Centered (menu and site logo)"
+msgstr "Tengahkan (menu dan logo situs)"
+
+#: inc/customizer.php:697 inc/customizer.php:1874
+msgid "Inline"
+msgstr "Sejajar"
+
+#: inc/customizer.php:677 inc/customizer.php:1835
+msgid "Static"
+msgstr "Static"
+
+#: inc/customizer.php:676 inc/customizer.php:1834
+msgid "Sticky"
+msgstr "Lekat"
+
+#: inc/customizer.php:673
+msgid "Sticky menu"
+msgstr "Menu melayang"
+
+#: inc/customizer.php:655 inc/customizer.php:694
+msgid "Menu style"
+msgstr "Gaya menu"
+
+#: inc/customizer.php:645
+msgid "Text for your call to action button"
+msgstr "Teks untuk tombol pemantik aksi"
+
+#: inc/customizer.php:637
+msgid "Click to begin"
+msgstr "Klik untuk memulai"
+
+#: inc/customizer.php:628
+msgid "URL for your call to action button"
+msgstr "URL untuk tombol pemantik aksi anda"
+
+#: inc/customizer.php:611
+msgid "Call to action button"
+msgstr "Tombol pemantik aksi"
+
+#: inc/customizer.php:597
+msgid "Subtitle for the fifth slide"
+msgstr "Subjudul untuk slide kelima"
+
+#: inc/customizer.php:579
+msgid "Title for the fifth slide"
+msgstr "Judul untuk slide kelima"
+
+#: inc/customizer.php:559
+msgid "Upload your fifth image for the slider"
+msgstr "Unggah gambar untuk slider ketiga anda"
+
+#: inc/customizer.php:540
+msgid "Fifth slide"
+msgstr "Slide kelima"
+
+#: inc/customizer.php:526
+msgid "Subtitle for the fourth slide"
+msgstr "Subjudul untuk slide keempat"
+
+#: inc/customizer.php:508
+msgid "Title for the fourth slide"
+msgstr "Judul untuk slide keempat"
+
+#: inc/customizer.php:488
+msgid "Upload your fourth image for the slider"
+msgstr "Unggah gambar untuk slide keempat"
+
+#: inc/customizer.php:469
+msgid "Fourth slide"
+msgstr "Slide keempat"
+
+#: inc/customizer.php:455
+msgid "Subtitle for the third slide"
+msgstr "Subjudul untuk slide ketiga"
+
+#: inc/customizer.php:437
+msgid "Title for the third slide"
+msgstr "Judul untuk slide ketiga"
+
+#: inc/customizer.php:417
+msgid "Upload your third image for the slider"
+msgstr "Unggah gambar untuk slider ketiga anda"
+
+#: inc/customizer.php:398
+msgid "Third slide"
+msgstr "Slider ketiga"
+
+#: inc/customizer.php:384
+msgid "Subtitle for the second slide"
+msgstr "Subjudul untuk slide kedua"
+
+#: inc/customizer.php:366
+msgid "Title for the second slide"
+msgstr "Judul untuk slide kedua"
+
+#: inc/customizer.php:346
+msgid "Upload your second image for the slider"
+msgstr "Upload gambar untuk slider kedua anda"
+
+#: inc/customizer.php:327
+msgid "Second slide"
+msgstr "Slide kedua"
+
+#: inc/customizer.php:313
+msgid "Subtitle for the first slide"
+msgstr "Subjudul untuk slide pertama"
+
+#: inc/customizer.php:295
+msgid "Title for the first slide"
+msgstr "Judul untuk slide pertama"
+
+#: inc/customizer.php:275
+msgid "Upload your first image for the slider"
+msgstr "Unggah gambar untuk slide pertama"
+
+#: inc/customizer.php:256
+msgid "First slide"
+msgstr "Slide pertama"
+
+#: inc/customizer.php:243
+msgid "Stop the text slider?"
+msgstr "Hentikan teks slider? "
+
+#: inc/customizer.php:229
+msgid "Slider speed in miliseconds. Use 0 to disable [default: 4000]"
+msgstr "Kecepatan slider dalam milisekon. Gunakan 0 untuk mematikan animasi [bawaan: 4000]"
+
+#: inc/customizer.php:226
+msgid "Slider speed"
+msgstr "Kecepatan slider"
+
+#: inc/customizer.php:219
+msgid "4000"
+msgstr "4000"
+
+#: inc/customizer.php:189
+msgid "You can add up to 5 images in the slider. Make sure you select where to display your slider from the Header Type section found above. You can also add a Call to action button (scroll down to find the options)"
+msgstr "Anda dapat menambahkan hingga 5 gambar di slider. Pastikan anda memilih di mana slide anda akan tampil dari bagian Tipe Header di atas. Anda juga dapat menambahkan tombol pemantik (Geserlah ke bawah untuk menemukan opsi pengaturannya)"
+
+#: inc/customizer.php:188
+msgid "Header Slider"
+msgstr "Header Slider"
+
+#: inc/customizer.php:175
+msgid "Select the header type for all pages except the front page"
+msgstr "Pilih tipe header untuk semua laman kecuali laman depan"
+
+#: inc/customizer.php:173
+msgid "Site header type"
+msgstr "Tipe header situs"
+
+#: inc/customizer.php:157 inc/customizer.php:180
+msgid "No header (only menu)"
+msgstr "Tanpa header (hanya menu)"
+
+#: inc/customizer.php:155 inc/customizer.php:178 inc/customizer.php:1790
+msgid "Image"
+msgstr "Gambar"
+
+#: inc/customizer.php:154 inc/customizer.php:177 inc/customizer.php:1789
+msgid "Full screen slider"
+msgstr "Slider selayar penuh"
+
+#: inc/customizer.php:152
+msgid "Select the header type for your front page"
+msgstr "Pilih tipe header untuk laman depan anda"
+
+#: inc/customizer.php:150
+msgid "Front page header type"
+msgstr "Jenis header laman depan"
+
+#: inc/customizer.php:135
+msgid "You can select your header type from here. After that, continue below to the next two tabs (Header Slider and Header Image) and configure them."
+msgstr "Anda dapat memilih tipe header dari sini. Kemudian, masuk ke dua tab selanjutnya (Slider Header dan Gambar Header) dan lakukan pengaturan di sana."
+
+#: inc/customizer.php:132
+msgid "Header type"
+msgstr "Tipe header"
+
+#: inc/customizer.php:126
+msgid "Header area"
+msgstr "Area header"
+
+#: inc/customizer.php:17 inc/customizer.php:70
+msgid "General"
+msgstr "Umum"
+
+#: inc/customizer.php:16
+msgid "Site title/tagline/logo"
+msgstr "Judul/slogan/logo situs"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Langsung ke isi"
+
+#: functions.php:265
+msgid "Create your menu here"
+msgstr "Buat menu anda di sini"
+
+#: functions.php:109
+msgid "Footer "
+msgstr "Kaki Halaman"
+
+#: inc/customizer.php:1385 functions.php:96
+msgid "Sidebar"
+msgstr "Bilah Sisi"
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: footer.php:26
+msgid "Theme: %2$s by %1$s."
+msgstr "Tema: %2$s by %1$s."
+
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Dengan bangga bertenaga %s"
+
+#: footer.php:24
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: content-page.php:25 inc/template-tags.php:118
+msgid "Edit"
+msgstr "Sunting"
+
+#: content-single.php:36 content-modern.php:35 content.php:34
+#: content-classic-alt.php:34 content-page.php:18 content-search.php:32
+msgid "Pages:"
+msgstr "Laman:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Rupanya kami tidak dapat menemukan hal yang sedang Anda cari. Cobalah pada pencarian."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan kata yang anda cari. Silahkan coba lagi dengan kata kunci yang lain"
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Sudah siap menerbitkan tulisan pertamamu? <a href=\"%1$s\">Mulai di sini</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Komentar Lebih Baru &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Komentar Lama"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Satu pemikiran pada &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pemikiran pada &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sepertinya tak ada apapun di lokasi ini. Mau coba salah satu tautan berikut atau lakukan pencarian?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Laman tersebut tak bisa ditemukan."
+
+#. Author URI of the theme
+msgid "https://athemes.com"
+msgstr "https://athemes.com"
+
+#. Author of the theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the theme
+msgid "https://athemes.com/theme/sydney"
+msgstr "https://athemes.com/theme/sydney"

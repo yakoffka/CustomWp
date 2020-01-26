@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.2.x - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-01-22 00:36:00+0000\n"
+"PO-Revision-Date: 2019-12-12 19:54:51+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1238,7 +1238,7 @@ msgstr "Aplicar filtros"
 
 #: wp-admin/theme-install.php:194
 msgid "If you have marked themes as favorites on WordPress.org, you can browse them here."
-msgstr "Se marcou temas como favoritos em WordPress.org, pode consultá-los aqui."
+msgstr "Se marcou temas como favoritos no WordPress.org, pode vê-los aqui."
 
 #: wp-admin/theme-install.php:177
 msgctxt "themes"
@@ -7339,7 +7339,7 @@ msgstr "O seu nome de utilizador em WordPress.org:"
 
 #: wp-admin/includes/plugin-install.php:357
 msgid "If you have marked plugins as favorites on WordPress.org, you can browse them here."
-msgstr "Se marcou plugins como favoritos em WordPress.org, pode consultá-los aqui."
+msgstr "Se marcou plugins como favoritos no WordPress.org, poderá visualizá-los aqui."
 
 #: wp-admin/includes/plugin-install.php:340
 msgid "Plugin zip file"

@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.2.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-01-14 07:34:20+0000\n"
+"PO-Revision-Date: 2019-12-25 18:21:03+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -314,7 +314,7 @@ msgstr "連結"
 
 #: wp-includes/js/dist/block-library.js:17609
 msgid "Prompt visitors to take action with a button-style link."
-msgstr "透過按鈕樣式連結提示使用者點擊以採取行動。"
+msgstr "提示使用者點擊按鈕樣式連結採取行動。"
 
 #: wp-includes/js/dist/block-library.js:17608
 msgid "Button"
@@ -8820,11 +8820,11 @@ msgstr "搜尋媒體"
 
 #: wp-includes/media.php:3680
 msgid "Filter by type"
-msgstr "依類型篩選"
+msgstr "依據類型篩選"
 
 #: wp-includes/media.php:3679
 msgid "Filter by date"
-msgstr "依日期篩選"
+msgstr "依據日期篩選"
 
 #: wp-includes/media.php:3674
 msgid "Bulk Select"

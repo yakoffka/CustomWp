@@ -1,0 +1,120 @@
+# Translation of Themes - BlankSlate in German
+# This file is distributed under the same license as the Themes - BlankSlate package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-09-05 19:00:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - BlankSlate\n"
+
+#. Description of the plugin/theme
+msgid "<strong>UPDATE</strong> - 4.0+ is here, completely overhauled, yet again. As always, <a href=\"http://tidythemes.com/concept/#upgrading\">use caution when upgrading</a> (tidythemes.com/concept/#upgrading) and <a href=\"http://tidythemes.com/concept/\">learn the TidyThemes concept</a> (tidythemes.com/concept). &nbsp; &rarr; <em><strong>CAUTION</strong>: If you're child theming or have clients that are child theming on top of BlankSlate (not the recommended use), please do not blindly upgrade to newer versions.</em> &nbsp; &rarr; <strong>DESCRIPTION</strong>: BlankSlate is the definitive WordPress HTML5 boilerplate starter theme. We've carefully constructed the most clean and minimalist theme available anywhere for designers/developers to use as a base/foundation to build websites for clients or to build completely custom themes from scratch to release faster. Clean, semi-minified, unformatted and valid code, SEO-friendly, no programmer comments, standardized and as white label as possible and most importantly, CSS reset for cross-browser-compatability and no intrusive visual CSS styles added whatsoever. A perfect skeleton theme that blows any others like it (the subsequent underscores.me for example) completely out of the water, as they're simply too overcomplicated for what people really want in this kind of theme. Now comes with jQuery enqueued and ready to go. &nbsp; &rarr; <strong>SUPPORT</strong>: Please use the <a href=\"http://tidythemes.com/forum/\">official support forum</a> (tidythemes.com/forum). Comments and suggestions for improving BlankSlate, please see \"<a href=\"http://tidythemes.com/tidythemes-sucks/\">TidyThemes Sucks!</a>\" (tidythemes.com/tidythemes-sucks). Just getting started? <a href=\"http://tidythemes.com/want-to-learn-css/\">Want to learn CSS?</a> (tidythemes.com/want-to-learn-css) &nbsp; &rarr; <strong>WHAT'S NEW?</strong>: We stripped down as much custom, extraneous, superfluous junk code as we could and greatly improved the HTML5 structure. <a href=\"http://make.wordpress.org/themes/author/chipbennett/\">Chip Bennett</a> (make.wordpress.org/themes/author/chipbennett), a highly experienced programmer and official WordPress administrator, worked closely with us to audit the theme code for quality. <a href=\"http://themes.trac.wordpress.org/changeset?old_path=/blankslate/3.3&new_path=/blankslate/4.0\">See</a> (themes.trac.wordpress.org/changeset?old_path=/blankslate/3.3&new_path=/blankslate/4.0) just how much we've revamped things. Last, but not least, BlankSlate has now been <a href=\"https://github.com/tidythemes/blankslate\">opened up on GitHub</a> (github.com/tidythemes/blankslate) if anyone would like to make suggested code additions/improvements. Thank you for using BlankSlate."
+msgstr "<strong>UPDATE</strong> - 4.0+ ist da, komplett überholt, schon wieder. Seien Sie wie immer <a href=\"http://tidythemes.com/concept/#upgrading\">vorsichtig wenn sie aktualisieren</a> (tidythemes.com/concept/#upgrading) und <a href=\"http://tidythemes.com/concept/\">lernen Sie das TidyThemes Konzept</a> (tidythemes.com/concept). &nbsp; &rarr; <em><strong>ACHTUNG</strong>: Wenn Sie oder Ihre Kunden Child Themes auf Basis von BlankSlate nutzen (nicht empfohlene Verwendung), aktualisieren Sie bitte nicht blind auf neuere Versionen.</em> &nbsp; &rarr; <strong>BESCHREIBUNG</strong>: BlankSlate ist das definitive WordPress HTML5 Textvorschlag Starter Thema. Wir haben behutsam das sauberste und minimalistischste Theme erstellt, dass für Designer/Entwickler verfügbar ist, um es als Basis/Grundlage zum Erstellen von Webseiten für Kunden zu nutzen oder um komplett eigene neue Themes zu erstellen und so schneller zu veröffentlichen. Sauberer, halbminimierter, unformatierter und gültiger Code, SEO-freundlich, keine Programmierer Kommentare, standardisiert und so \"White-Label\" wie möglich und am wichtigsten: CSS resets für Cross-Browser-Kompatibilität und überhaupt keine aufdringlichen sichtbaren CSS Styles. Ein perfektes Skelett-Theme, dass alle anderen (das subsequente underscores.me zum Beispiel) völlig vernichtet, da sie einfach viel zu kompliziert sind für das, was die Leute wirklich in dieser Art Theme wollen. Es kommt jetzt mit eingebundenem jQuery, bereit zum Start. &nbsp; &rarr; <strong>SUPPORT</strong>: Bitte nutzen Sie das <a href=\"http://tidythemes.com/forum/\">offizielle Support Forum</a> (tidythemes.com/forum). Für Kommentare und Vorschläge um BlankSlate zu verbessern schauen Sie hier: \"<a href=\"http://tidythemes.com/tidythemes-sucks/\">TidyThemes Sucks!</a>\" (tidythemes.com/tidythemes-sucks). Fangen Sie grade erst an? <a href=\"http://tidythemes.com/want-to-learn-css/\">Wollen Sie CSS lernen?</a> (tidythemes.com/want-to-learn-css) &nbsp; &rarr; <strong>WAS IST NEU?</strong>: Wir haben so viel benutzerdefinierten, fremden, überflüssigen Müll-Code entfernt, wie wir konnten und haben die HTML5 Struktur stark verbessert. <a href=\"http://make.wordpress.org/themes/author/chipbennett/\">Chip Bennett</a> (make.wordpress.org/themes/author/chipbennett), ein sehr erfahrener Programmierer und offizieller WordPress Administrator, arbeitete sehr eng mit uns zusammen um den Theme-Code auf Qualität zu prüfen. <a href=\"http://themes.trac.wordpress.org/changeset?old_path=/blankslate/3.3&new_path=/blankslate/4.0\">Schauen Sie</a> (themes.trac.wordpress.org/changeset?old_path=/blankslate/3.3&new_path=/blankslate/4.0) wie sehr wir alles überarbeitet haben. Zu guter Letzt, BlankSlate wurde nun <a href=\"https://github.com/tidythemes/blankslate\">auf GitHub geöffnet</a> (github.com/tidythemes/blankslate) falls irgendjemand Code Ergänzungen/Verbesserungen vorschlagen möchte. Vielen Dank, dass Sie BlankSlate nutzen."
+
+#. Theme Name of the plugin/theme
+msgid "BlankSlate"
+msgstr "BlankSlate"
+
+#: tag.php:4
+msgid "Tag Archives: "
+msgstr "Tag Archiv:"
+
+#: search.php:17
+msgid "Sorry, nothing matched your search. Please try again."
+msgstr "Entschuldige, aber es konnte nichts gefunden werden. Versuche es bitte erneut."
+
+#: search.php:14
+msgid "Nothing Found"
+msgstr "Es konnte nichts gefunden werden."
+
+#: search.php:5
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: nav-below.php:4
+msgid "newer %s"
+msgstr "neuer %s"
+
+#: nav-below.php:3
+msgid "%s older"
+msgstr "%s älter"
+
+#: functions.php:42
+msgid "Sidebar Widget Area"
+msgstr "Sidebar Widget"
+
+#: functions.php:12
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+#: footer.php:5
+msgid " Theme By: %1$s."
+msgstr "Theme von: %1$s."
+
+#: footer.php:5
+msgid "%1$s %2$s %3$s. All Rights Reserved."
+msgstr "%1$s %2$s %3$s. Alle Rechte vorbehalten."
+
+#: entry-footer.php:5
+msgid "Comments"
+msgstr "Kommentare"
+
+#: entry-footer.php:2
+msgid "Categories: "
+msgstr "Kategorien:"
+
+#: comments.php:31
+msgid "Trackback"
+msgstr "Trackback"
+
+#: comments.php:31
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: category.php:4
+msgid "Category Archives: "
+msgstr "Kategorie Archiv:"
+
+#: author.php:5
+msgid "Author Archives"
+msgstr "Autor Archive"
+
+#: attachment.php:6
+msgid "Return to %s"
+msgstr "Zurück zu %s"
+
+#: archive.php:8
+msgid "Archives"
+msgstr "Archive"
+
+#: archive.php:7
+msgid "Yearly Archives: %s"
+msgstr "Archiv für das Jahr: %s"
+
+#: archive.php:6
+msgid "Monthly Archives: %s"
+msgstr "Archiv für den Monat: %s"
+
+#: archive.php:5
+msgid "Daily Archives: %s"
+msgstr "Archiv für den Tag: %s"
+
+#: 404.php:8
+msgid "Nothing found for the requested page. Try a search instead?"
+msgstr "Die gewünschte Seite konnte nicht gefunden werden. Willst Du eine Suche probieren?"
+
+#: 404.php:5
+msgid "Not Found"
+msgstr "Seite nicht gefunden"
+
+#. Author URI of the plugin/theme
+msgid "http://tidythemes.com/"
+msgstr "http://tidythemes.com/"
+
+#. Author of the plugin/theme
+msgid "TidyThemes"
+msgstr "TidyThemes"

@@ -1,0 +1,1976 @@
+# Translation of Themes - Sydney in Norwegian (Bokmål)
+# This file is distributed under the same license as the Themes - Sydney package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-15 14:05:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Themes - Sydney\n"
+
+#. Description of the theme
+msgid "Sydney is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. As well as being fully compatible with Elementor, Sydney brings plenty of customization possibilities like access to all Google Fonts, full color control, layout control, logo upload, full screen slider, header image, sticky navigation and much more. Also, Sydney provides all the construction blocks you need to rapidly create an engaging front page."
+msgstr "Sydney er et kraftfullt forretningstema som raskt lar bedrifter og frilansere etablere en solid tilstedeværelse på nett. Sydney gir deg mange konfigurasjonsmuligheter som tilgang på alle Google Fonts, full fargekontroll, layout-kontroll, opplasting av logo, fullskjerms-slider, header-bilde, sticky menyer og mye mer. Dessuten gir Sydney deg alle byggeblokkene du behøver for å hurtig opprette en medrivende forside."
+
+#. Theme Name of the theme
+#: inc/theme-info.php:129
+msgid "Sydney"
+msgstr "Sydney"
+
+#: inc/customizer.php:305 inc/customizer.php:1921
+msgid "or go to the Customizer"
+msgstr "eller gå til Tilpass"
+
+#: inc/customizer.php:287 inc/customizer.php:1905
+msgid "Click the pencil icon to change this text"
+msgstr "Klikk blyant-ikonet for å redigere denne teksten"
+
+#: inc/theme-info.php:56
+msgid "Install: Elementor"
+msgstr "Installer: Elementor"
+
+#. Template Name of the theme
+msgid "No sidebar"
+msgstr "Ingen sidestolpe"
+
+#. Template Name of the theme
+msgid "Page builder ready"
+msgstr "Sidebygger er klar"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Aktiver %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Oppdater %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: plugins/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Ingen utvidelser å installere, oppdatere eller aktivere."
+
+#. translators: 1: install status, 2: update status
+#: plugins/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: version number
+#: plugins/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: plugins/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Det er én eller flere nødvendige eller anbefalte utvidelser å installere, oppdatere eller aktivere."
+
+#. translators: %s: plugin name.
+#: plugins/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Oppdaterer utvidelse: %s"
+
+#: inc/template-tags.php:81
+msgctxt "post date"
+msgid "Posted %s"
+msgstr "Publisert %s"
+
+#: inc/customizer.php:1360
+msgid "Single post title size"
+msgstr "Størrelse på tittel på enkeltinnlegg"
+
+#: inc/customizer.php:817 inc/customizer.php:1847
+msgid "Classic (alternative)"
+msgstr "Klassisk (alternativ)"
+
+#: inc/theme-info.php:241
+msgid "Buy Sydney Pro "
+msgstr "Kjøp Sidney Pro"
+
+#: inc/theme-info.php:235
+msgid "Priority support"
+msgstr "Prioritert brukerstltte"
+
+#: inc/theme-info.php:225
+msgid "WooCommerce compatible"
+msgstr "Kompatibel med WooCommerce"
+
+#: inc/theme-info.php:220
+msgid "Single Post/Page Options"
+msgstr "Alternativer for enkeltside/enkeltinnlegg"
+
+#: inc/theme-info.php:215
+msgid "Header support for shortcodes"
+msgstr "Støtte for kortkoder i sidehodet"
+
+#: inc/theme-info.php:210
+msgid "Header support for Crelly Slider"
+msgstr "Støtte for Crelly Slider i sidehodet"
+
+#: inc/theme-info.php:195
+msgid "Footer Credits option"
+msgstr "Alternativ for honorarer i sidebunn"
+
+#: inc/theme-info.php:190
+msgid "Background image support"
+msgstr "Støtte for bakgrunnsbilde"
+
+#: inc/theme-info.php:185
+msgid "Widgetized footer"
+msgstr "Sidebunn med widgeter"
+
+#: inc/theme-info.php:175
+msgid "Color options"
+msgstr "Fargealternativer"
+
+#: inc/theme-info.php:170
+msgid "Polylang integration"
+msgstr "Integrasjon med utvidelsen Polylang"
+
+#: inc/theme-info.php:165
+msgid "Translation ready"
+msgstr "Klar til å oversettes"
+
+#: inc/theme-info.php:160
+msgid "Front Page Blocks"
+msgstr "Blokker på forsiden"
+
+#: inc/theme-info.php:155
+msgid "Slider, image or video header"
+msgstr "Karusell, bilde eller video i sidehode"
+
+#: inc/theme-info.php:150
+msgid "Social Icons"
+msgstr "Sosiale ikoner"
+
+#: inc/theme-info.php:145
+msgid "Parallax backgrounds"
+msgstr "Parallakse-bakgrunner"
+
+#: inc/theme-info.php:135
+msgid "Access to all Google Fonts"
+msgstr "Tilgang til skrifttyper fra Google"
+
+#: inc/theme-info.php:130
+msgid "Sydney Pro"
+msgstr "Sydney Pro"
+
+#: inc/theme-info.php:128
+msgid "Feature"
+msgstr "Funksjon/egenskap"
+
+#: inc/theme-info.php:120
+msgid "See the Documentation"
+msgstr "Se dokumentasjonen"
+
+#: inc/theme-info.php:114
+msgid "Visit the forums"
+msgstr "Besøk brukerstøtteforum"
+
+#: inc/theme-info.php:113
+msgid "Need help? Go ahead and visit our support forums and we'll be happy to assist you with any theme related questions you might have"
+msgstr "Trenger du hjelp? Kom deg videre ved å besøke vårt brukerstøtteforum og der vil vi gjerne hjelpe deg med ethvert spørsmål knyttet til temaet"
+
+#: inc/theme-info.php:112
+msgid "Visit our forums"
+msgstr "Besøk vårt forum"
+
+#: inc/theme-info.php:103
+msgid "Go to the manual importer"
+msgstr "Gå til den manuelle importøren"
+
+#: inc/theme-info.php:102
+msgid "Download demo content"
+msgstr "Last ned demoinnhold"
+
+#: inc/theme-info.php:101
+msgid "Download the following demo content file and then click the button to go to the WordPress default importer."
+msgstr "Last ned følgende fil med demo-innhold og klikk så knappen for å gå til standardimportøren i WordPress."
+
+#: inc/theme-info.php:100
+msgid "Option 2 - manual"
+msgstr "Alternativ 2 - manuelt"
+
+#: inc/theme-info.php:96
+msgid "Go to the automatic importer"
+msgstr "Gå til den automatiske importøren"
+
+#: inc/theme-info.php:92
+msgid "Go to the importer"
+msgstr "Gå til importøren"
+
+#: inc/theme-info.php:85
+msgid "Install the following plugin and then come back here to access the importer. With it you can import all demo content and change your homepage and blog page to the ones from our demo site, automatically. It will also assign a menu."
+msgstr "Installer følgende utvidelse og kom så tilbake hit for å få tilgang til importøren. Med den kan du importere alt demo-innhold og endre din forside og innleggsside til de fra vårt demo-nettsted, automatisk. Den vil også tildele en meny."
+
+#: inc/theme-info.php:84
+msgid "Option 1 - automatic"
+msgstr "Alternativ 1 - automatisk"
+
+#: inc/theme-info.php:70
+msgid "It is highly recommend that you install Sydney Toolbox. It will create custom post types like services and employees for you to use on your website."
+msgstr "Det er sterkt anbefalt at du installerer Sydney verktøykasse. Den vil lage tilpassede innholdstyper som tjenester og ansatte til å bruke på ditt nettsted."
+
+#: inc/theme-info.php:69
+msgid "Install: Sydney Toolbox"
+msgstr "Installer: Sydney verktøykasse"
+
+#: inc/theme-info.php:65 inc/theme-info.php:77 inc/theme-info.php:95
+msgid "Plugin installed and active!"
+msgstr "Utvidelse installert og aktivert!"
+
+#: inc/theme-info.php:62 inc/theme-info.php:74 inc/theme-info.php:91
+msgid "Install and Activate"
+msgstr "Installer og aktiver"
+
+#: inc/theme-info.php:57
+msgid "It is highly recommended that you install Elementor. It will enable you to create pages by adding widgets to them using drag and drop."
+msgstr "Det er sterkt å anbefale at du installerer Elementor. Den vil gjøre deg i stand til å lage sider ved å legge til widgeter på dem med dra og slipp."
+
+#: inc/theme-info.php:52
+msgid "Go to Customizer"
+msgstr "Gå til Tilpass"
+
+#: inc/theme-info.php:51
+msgid "Use the Customizer to make Sydney your own."
+msgstr "Bruk Tilpass for å gjøre Sidney til din egen."
+
+#: inc/theme-info.php:50
+msgid "Step 3 - Customize"
+msgstr "Trinn 3 - Tilpass"
+
+#: inc/theme-info.php:47
+msgid "Our documentation (including video tutorials) will have you up and running in no time."
+msgstr "Vår dokumentasjon (inkludert opplæringsvideoer) vil på kort tid hjelpe deg med å komme i gang."
+
+#: inc/theme-info.php:46
+msgid "Step 2 - Read documentation"
+msgstr "Trinn 2 - Les dokumentasjon"
+
+#: inc/theme-info.php:44
+msgid "Check recommended actions"
+msgstr "Kontroller anbefalte handliger"
+
+#: inc/theme-info.php:43
+msgid "We've made a list of steps for you to follow to get the most of Sydney."
+msgstr "Vi har laget en liste med trinn for deg å følge for å få det beste ut av Sidney."
+
+#: inc/theme-info.php:42
+msgid "Step 1 - Implement recommended actions"
+msgstr "Trinn 1 - Utfør anbefalte handlinger"
+
+#: inc/theme-info.php:36
+msgid "Free vs Pro"
+msgstr "Gratis vs. Pro"
+
+#: inc/theme-info.php:34
+msgid "Recommended Actions"
+msgstr "Anbefalte handlinger"
+
+#: inc/theme-info.php:33
+msgid "Getting started"
+msgstr "Komme i gang"
+
+#: inc/theme-info.php:26
+msgid "Welcome to Sydney version %s"
+msgstr "Velkommen til Sydney versjon %s"
+
+#: inc/theme-info.php:25
+msgid "Hello, %s,"
+msgstr "Hei, %s"
+
+#: functions.php:464
+msgid "Get started with Sydney"
+msgstr "Kom i gang med Sydney"
+
+#: functions.php:463
+msgid "Welcome to Sydney. To get started please make sure to visit our <a href=\"%s\">welcome page</a>."
+msgstr "Velkommen til Sydney. Får å komme i gang, pass på å besøke vår <a href=\"%s\">velkomstside</a>."
+
+#: inc/theme-info.php:140 inc/customizer.php:211 inc/customizer.php:1863
+msgid "Responsive"
+msgstr "Responsiv"
+
+#: inc/customizer.php:210 inc/customizer.php:1862
+msgid "Full screen"
+msgstr "Fullskjerm"
+
+#: inc/customizer.php:206
+msgid "Slider mobile behavior"
+msgstr "Oppførsel til karusell på mobil"
+
+#: widgets/video-widget.php:29
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: widgets/video-widget.php:28
+msgid "Normal"
+msgstr "Normal"
+
+#: widgets/video-widget.php:26
+msgid "Video mode:"
+msgstr "Video modus:"
+
+#: inc/customizer.php:1570
+msgid "Mobile menu button"
+msgstr "Knapp for mobilmeny"
+
+#: inc/customizer.php:1511
+msgid "Menu items hover"
+msgstr "Sveve for menyelementer"
+
+#: inc/customizer.php:156 inc/customizer.php:179 inc/customizer.php:1791
+msgid "Video"
+msgstr "Video"
+
+#: inc/theme-info.php:80
+msgid "Demo content"
+msgstr "Demo-innhold"
+
+#: inc/page-builder.php:65
+msgid "Add a value in the field to change the top/bottom row padding, otherwise 100px will be applied by default"
+msgstr "Fyll inn en verdi i feltet for å endre padding på øverste/nederst rad, ellers vil 100px brukes som standard."
+
+#: widgets/fp-services-type-a.php:46 widgets/fp-services-type-b.php:54
+msgid "Excerpt"
+msgstr "Utdrag"
+
+#: widgets/fp-services-type-a.php:45 widgets/fp-services-type-b.php:53
+msgid "Full content"
+msgstr "Fullt innhold"
+
+#: widgets/fp-services-type-a.php:43 widgets/fp-services-type-b.php:51
+msgid "Content to display:"
+msgstr "Innhold som skal vises:"
+
+#: inc/upsell/class-customize.php:77
+msgid "Get Sydney Pro"
+msgstr "Skaff Sydney Pro"
+
+#: inc/upsell/class-customize.php:76
+msgid "Ready for more?"
+msgstr "Klar for mer?"
+
+#: inc/page-builder.php:198
+msgid "This applies to all headings in the widget, except the widget title"
+msgstr "Dette påvirker alle overskrifter i widgeten, utenom widget-tittelen"
+
+#: inc/page-builder.php:194
+msgid "Headings color"
+msgstr "Farge på overskrifter"
+
+#: inc/page-builder.php:187
+msgid "Widget title color"
+msgstr "Farge på widget-tittel"
+
+#: inc/page-builder.php:183
+msgid "This setting depends on the content, it may or may not work"
+msgstr "Denne innstillingen avhenger av innholdet, den kan eller kan ikke virke"
+
+#: inc/page-builder.php:180
+msgid "Right"
+msgstr "Høyre"
+
+#: inc/page-builder.php:179
+msgid "Center"
+msgstr "Midtstilt"
+
+#: inc/page-builder.php:178
+msgid "Left"
+msgstr "Venstre"
+
+#: inc/page-builder.php:174
+msgid "Content alignment"
+msgstr "Justering av innhold"
+
+#: inc/page-builder.php:113
+msgid "Overlay color"
+msgstr "Dekkefarge"
+
+#: inc/page-builder.php:107
+msgid "Disable row overlay?"
+msgstr "Skru av dekke på rader?"
+
+#: inc/customizer.php:1751
+msgid "[DEPRECATED] Please use the color option from Edit Row > Design > Overlay color"
+msgstr "[FORELDET] Vennligst bruk fargevalget fra Rediger Rad > Design > Overleggsfarge"
+
+#: inc/customizer.php:1377
+msgid "Header"
+msgstr "Sidetopp"
+
+#: inc/customizer.php:1372
+msgid "Colors"
+msgstr "Farger"
+
+#: widgets/fp-portfolio.php:163
+msgid "Show project title?"
+msgstr "Vis prosjekttittel?"
+
+#: widgets/fp-portfolio.php:160
+msgid "\"Show all\" text:"
+msgstr "\"Vis alle\"-tekst:"
+
+#: widgets/fp-portfolio.php:159
+msgid "Show navigation filter? (Category slugs must be specified)."
+msgstr "Vise navigasjonsfilter? (Kategori-slug må oppgis)."
+
+#: widgets/fp-portfolio.php:156
+msgid "Enter the slugs (comma separated) for your categories or leave empty to show all projects."
+msgstr "Oppgi slug-navnene (kommaseparert) for dine kategorier eller la stå tomt for å vise alle prosjekter."
+
+#: widgets/fp-portfolio.php:154
+msgid "Number of projects to show (-1 shows all of them):"
+msgstr "Antall prosjekter som skal vises (-1 viser alle)"
+
+#: widgets/fp-portfolio.php:35 widgets/fp-portfolio.php:148
+msgid "Show all"
+msgstr "Vis alle"
+
+#: widgets/fp-portfolio.php:13
+msgid "Sydney FP: Portfolio"
+msgstr "Sydney FP: Portefølje"
+
+#: widgets/fp-portfolio.php:12
+msgid "Display your projects in a grid."
+msgstr "Vis dine prosjekter i et rutenett."
+
+#: inc/customizer.php:108
+msgid "Page wrapper - bottom padding"
+msgstr "Side-wrapper - bunn-padding"
+
+#: widgets/fp-clients.php:35
+msgid "Open clients links in a new tab?"
+msgstr "Åpne klienter i ny fane?"
+
+#: inc/customizer.php:111
+msgid "Bottom padding for the page wrapper (the space between the page content and the footer)"
+msgstr "Bunn-padding for side-wrapperen (mellomrommet mellom sidens innhold og footeren)"
+
+#: inc/customizer.php:101
+msgid "100"
+msgstr "100"
+
+#: inc/customizer.php:88
+msgid "Top padding for the page wrapper (the space between the header and the page title)"
+msgstr "Topp-padding for side-wrapperen (mellomrommet mellom headeren og sidens tittel)"
+
+#: inc/customizer.php:85
+msgid "Page wrapper - top padding"
+msgstr "Side-wrapper - topp-padding"
+
+#: inc/customizer.php:78
+msgid "83"
+msgstr "83"
+
+#: inc/theme-info.php:35
+msgid "Support"
+msgstr "Support"
+
+#: widgets/fp-testimonials.php:33
+msgid "Autoplay time [ms]"
+msgstr "Autoavspilling i tid [ms]"
+
+#: inc/theme-info.php:16
+msgid "Sydney Info"
+msgstr "Sydney-informasjon"
+
+#: inc/theme-info.php:48 inc/theme-info.php:118
+msgid "Documentation"
+msgstr "Dokumentasjon"
+
+#: plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Ingen utvidelser ble markert for aktivering. Ingen handling utført."
+
+#: plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Ingen utvidelser ble markert for oppdatering. Ingen handling utført."
+
+#: plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Ingen utvidelser tilgjengelig for oppdatering for øyeblikket."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Oppdaterer utvidelse %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Ingen utvidelser ble markert for installasjon. Ingen handling utført."
+
+#: plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Oppgraderingsmelding fra forfatteren av utvidelsen:"
+
+#: plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Oppdater"
+
+#: plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ukjent"
+
+#: plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minste påkrevde versjon:"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "For å aktivere <span class=\"count\">(%s)</span>"
+msgstr[1] "For å aktivere <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Installert versjon:"
+
+#: plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Tilgjengelig versjon:"
+
+#: plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versjon"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "For å installere <span class=\"count\">(%s)</span>"
+msgstr[1] "For å installere <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Oppdatering tilgjengelig <span class=\"count\">(%s)</span>"
+msgstr[1] "Oppdateringer tilgjengelige <span class=\"count\">(%s)</span>"
+
+#: plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Påkrevd oppdatering er ikke tilgjengelig."
+
+#: plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Oppdatering anbefalt"
+
+#: plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Krever oppdatering"
+
+#. translators: 1: number of plugins.
+#: plugins/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Det er en oppdatering tilgjengelig for: %1$s."
+msgstr[1] "Det er oppdateringer tilgjengelige for følgende utvidelser: %1$s."
+
+#: plugins/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Start oppdatering av utvidelse"
+msgstr[1] "Start oppdatering av utvidelsene"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Ingen handling ble utført. Utvidelsen %1$s var allerede aktiv."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Utvidelse ikke aktivert. En nyere versjon av %s kreves for dette temaet. Vennligst oppdater utvidelsen."
+
+#: plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Vennligst kontakt sideadministratoren for hjelp."
+
+#: plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Denne utvidelsen må oppdateres for å være kompatibel med ditt tema."
+
+#: plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Oppdatering nødvendig"
+
+#: plugins/class-tgm-plugin-activation.php:1121
+#: plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "og"
+
+#: plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktiv"
+
+#: plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Ekstern kilde"
+
+#. Template Name of the theme
+msgid "Full width"
+msgstr "full bredde"
+
+#. Template Name of the theme
+msgid "Front Page"
+msgstr "Forside"
+
+#: widgets/video-widget.php:24
+msgid "Paste the URL of the video (only from a network that supports oEmbed, like Youtube, Vimeo etc.):"
+msgstr "Lim inn videoens URL (kun fra tilbydere som støtter oEmbed, som YouTube, Vimeo, etc.):"
+
+#: widgets/video-widget.php:7
+msgid "Sydney: Video"
+msgstr "Sydney: Video"
+
+#: widgets/video-widget.php:6
+msgid "Display a video from Youtube, Vimeo etc."
+msgstr "Vis en video fra YouTube, Vimeo, etc. "
+
+#: widgets/fp-testimonials.php:108
+msgid "See all our testimonials"
+msgstr "Se alle referanser"
+
+#: widgets/fp-testimonials.php:31
+msgid "Enter the slug for your category or leave empty to show all testimonials."
+msgstr "Oppgi permalenken for din kategori eller la stå tomt for å vise alle omtaler."
+
+#: widgets/fp-testimonials.php:29
+msgid "The text for the button [Defaults to <em>See all our testimonials</em> if left empty]"
+msgstr "Knappens tekst [viser <em>Se alle referanser</em> hvis tom]"
+
+#: widgets/fp-testimonials.php:27
+msgid "The URL for your button [In case you want a button below your testimonials block]"
+msgstr "Knappens URL [dersom du ønsker å vise en knapp under referanseblokken]"
+
+#: widgets/fp-testimonials.php:25
+msgid "Number of testimonials to show (-1 shows all of them):"
+msgstr "Antall referanser som skal vises (velg -1 for å vise alle):"
+
+#: widgets/fp-testimonials.php:7
+msgid "Sydney FP: Testimonials"
+msgstr "Sydney FP: Referanser"
+
+#: widgets/fp-testimonials.php:6
+msgid "Display your testimonials in a slider."
+msgstr "Vis dine referanser i en slider."
+
+#: widgets/fp-social.php:64
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Velg &mdash;"
+
+#: widgets/fp-social.php:62
+msgid "Select your social menu:"
+msgstr "Velg meny for sosiale medier:"
+
+#: widgets/fp-social.php:52
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Ingen menyer har blitt laget ennå. <a href=\"%s\">Lag noen</a>"
+
+#: widgets/fp-social.php:6
+msgid "Sydney FP: Social Profile"
+msgstr "Sydney FP: Sosiale medier-profil"
+
+#: widgets/fp-social.php:5
+msgid "Display your social profile on your front page"
+msgstr "Vis dine sosiale kanaler på forsiden"
+
+#: widgets/fp-skills.php:68
+msgid "Fourth skill value"
+msgstr "Fjerde ferdighetsverdi"
+
+#: widgets/fp-skills.php:63
+msgid "Fourth skill name"
+msgstr "Fjerde ferdighetstittel"
+
+#: widgets/fp-skills.php:57
+msgid "Third skill value"
+msgstr "Tredje ferdighetsverdi"
+
+#: widgets/fp-skills.php:52
+msgid "Third skill name"
+msgstr "Tredje ferdighetstittel"
+
+#: widgets/fp-skills.php:46
+msgid "Second skill value"
+msgstr "Andre ferdighetsverdi"
+
+#: widgets/fp-skills.php:41
+msgid "Second skill name"
+msgstr "Andre ferdighetstittel"
+
+#: widgets/fp-skills.php:35
+msgid "First skill value"
+msgstr "Første ferdighetsverdi"
+
+#: widgets/fp-skills.php:30
+msgid "First skill name"
+msgstr "Første ferdighetstittel"
+
+#: widgets/fp-skills.php:7
+msgid "Sydney FP: Skills"
+msgstr "Sydney FP: Ferdigheter"
+
+#: widgets/fp-skills.php:6
+msgid "Show your visitors some of your skills."
+msgstr "Vis dine besøkende noen av dine ferdigheter."
+
+#: widgets/fp-services-type-b.php:41
+msgid "Number of columns:"
+msgstr "Antall kolonner:"
+
+#: widgets/fp-services-type-b.php:12
+msgid "Sydney FP: Services type B"
+msgstr "Sydney FP: Tjenester Type B"
+
+#: widgets/fp-services-type-a.php:145 widgets/fp-services-type-b.php:160
+msgid "See all our services"
+msgstr "Se alle våre tjenester"
+
+#: widgets/fp-services-type-a.php:42
+msgid "Display services in two columns instead of three?"
+msgstr "Vis tjenestene i to kolonner i stedet for tre?"
+
+#: widgets/fp-services-type-a.php:37 widgets/fp-services-type-b.php:36
+msgid "The text for the button [Defaults to <em>See all our services</em> if left empty]"
+msgstr "Knappens tekst [viser <em>Se alle våre tjenester</em> hvis tom]"
+
+#: widgets/fp-services-type-a.php:35 widgets/fp-services-type-b.php:34
+msgid "The URL for your button [In case you want a button below your services block]"
+msgstr "Knappens URL [dersom du ønsker en knapp under tjenesteblokken]"
+
+#: widgets/fp-services-type-a.php:33 widgets/fp-services-type-b.php:32
+msgid "Number of services to show (-1 shows all of them):"
+msgstr "Antall tjenester som skal vises (velg -1 for å vise alle):"
+
+#: widgets/fp-services-type-a.php:28 widgets/fp-services-type-b.php:27
+msgid "In order to display this widget, you must first add some services from your admin area."
+msgstr "For å kunne vise denne widgeten, må du først legge til noen tjenester fra administrasjonen."
+
+#: widgets/fp-services-type-a.php:12
+msgid "Sydney FP: Services Type A"
+msgstr "Sydney FP: Tjenester Type A"
+
+#: widgets/fp-services-type-a.php:11 widgets/fp-services-type-b.php:11
+msgid "Show what services you are able to provide."
+msgstr "Vis hvilke tjenester du kan tilby."
+
+#: widgets/fp-list.php:75
+msgid "Call to action button text:"
+msgstr "Aksjonsoppfordringsknapp tekst:"
+
+#: widgets/fp-list.php:72
+msgid "Call to action button URL:"
+msgstr "Aksjonsoppfordringsknapp URL:"
+
+#: widgets/fp-list.php:69
+msgid "Add your list items here. One item per row, start each row with <strong>^</strong>. Example: <strong>^ list item </strong>"
+msgstr "Legg til listepunktene dine her. Et punkt per rad, start hver rad med <strong>^</strong>. Eksempel: <strong>^ Listepunkt </strong>"
+
+#: widgets/fp-list.php:66
+msgid "Add a bit of text here. It will be displayed."
+msgstr "Legg til litt tekst her. Det vil vises."
+
+#: widgets/fp-list.php:63 widgets/fp-portfolio.php:152 widgets/fp-social.php:57
+msgid "Title:"
+msgstr "Tittel:"
+
+#: widgets/fp-list.php:13
+msgid "Sydney FP: List"
+msgstr "Sydney FP: Liste"
+
+#: widgets/fp-list.php:11
+msgid "A simple list widget"
+msgstr "En enkel liste-widget"
+
+#: widgets/fp-latest-news.php:51 widgets/fp-latest-news.php:53
+msgid "See all our news"
+msgstr "Se alle våre nyheter"
+
+#: widgets/fp-latest-news.php:26
+msgid "Add the text for the button here if you want to change the default <em>See all our news</em>"
+msgstr "Legg til tekst for knappen her, hvis du vil erstatte standardteksten <em>Se alle våre artikler</em>"
+
+#: widgets/fp-latest-news.php:23
+msgid "Enter the slug for your category or leave empty to show posts from all categories."
+msgstr "Oppgi permalenken for din kategori eller la stå tomt for å vise innlegg fra alle kategorier."
+
+#: widgets/fp-latest-news.php:7
+msgid "Sydney FP: Latest News"
+msgstr "Sydney FP: Siste artikler"
+
+#: widgets/fp-latest-news.php:6
+msgid "Show the latest news from your blog."
+msgstr "Vis siste nyheter fra din blogg."
+
+#: widgets/fp-facts.php:96
+msgid "Fourth fact icon"
+msgstr "Fjerde faktaikon"
+
+#: widgets/fp-facts.php:91
+msgid "Fourth fact value"
+msgstr "Fjerde faktaverdi"
+
+#: widgets/fp-facts.php:86
+msgid "Fourth fact name"
+msgstr "Fjerde faktanavn"
+
+#: widgets/fp-facts.php:80
+msgid "Third fact icon"
+msgstr "Tredje faktaikon"
+
+#: widgets/fp-facts.php:75
+msgid "Third fact value"
+msgstr "Tredje faktaverdi"
+
+#: widgets/fp-facts.php:70
+msgid "Third fact name"
+msgstr "Tredje faktanavn"
+
+#: widgets/fp-facts.php:64
+msgid "Second fact icon"
+msgstr "Andre faktaikon"
+
+#: widgets/fp-facts.php:59
+msgid "Second fact value"
+msgstr "Andre faktaverdi"
+
+#: widgets/fp-facts.php:54
+msgid "Second fact name"
+msgstr "Andre faktanavn"
+
+#: widgets/fp-facts.php:48
+msgid "First fact icon"
+msgstr "Første faktaikon"
+
+#: widgets/fp-facts.php:43
+msgid "First fact value"
+msgstr "Første faktaverdi"
+
+#: widgets/fp-facts.php:38
+msgid "First fact name"
+msgstr "Første faktanavn"
+
+#: widgets/fp-facts.php:30
+msgid "Usage example: <strong>fa-android</strong>"
+msgstr "Eksempel på bruk: <strong>fa-android</strong>"
+
+#: widgets/fp-facts.php:30
+msgid "here."
+msgstr "her."
+
+#: widgets/fp-facts.php:30
+msgid "You can find a list of the available icons "
+msgstr "Du kan finne en liste over tilgjengelige ikoner"
+
+#: widgets/fp-facts.php:8
+msgid "Sydney FP: Facts"
+msgstr "Sydney FP: Fakta"
+
+#: widgets/fp-facts.php:7
+msgid "Show your visitors some facts about your company."
+msgstr "Vis dine besøkende noen fakta om selskapet ditt."
+
+#: widgets/fp-employees.php:140
+msgid "See all our employees"
+msgstr "Se alle våre ansatte"
+
+#: widgets/fp-employees.php:35
+msgid "Center the employees? (use only if you have 1 or 2 employees)"
+msgstr "Sentrer ansatte? (Brukes bare dersom du har 1 eller 2 ansatte)"
+
+#: widgets/fp-employees.php:32
+msgid "Enter the slug for your category or leave empty to show all employees."
+msgstr "Oppgi permalenken for din kategori eller la stå tomt for å vise alle ansatte. "
+
+#: widgets/fp-employees.php:30
+msgid "The text for the button [Defaults to <em>See all our employees</em> if left empty]"
+msgstr "Tekst på knappen [Standard tekst er <em> Se alle våre ansatte </em> hvis tom]"
+
+#: widgets/fp-employees.php:28
+msgid "Enter an URL here if you want to section to link somewhere."
+msgstr "Legg til en URL her dersom du ønsker at seksjonen skal linkes til et sted."
+
+#: widgets/fp-employees.php:26
+msgid "Number of employees to show (-1 shows all of them):"
+msgstr "Antall ansatte å vise (-1 viser alle):"
+
+#: widgets/fp-employees.php:21
+msgid "In order to display this widget, you must first add some employees from the dashboard. Add as many as you want and the theme will automatically display them all."
+msgstr "For å vise denne widgeten, må du først legge til ansatte i administrasjonen. Legg til så mange du ønsker og temaet vil automagisk vise frem alle."
+
+#: widgets/fp-employees.php:7
+msgid "Sydney FP: Employees"
+msgstr "Sydney FP: Ansatte"
+
+#: widgets/fp-employees.php:6
+msgid "Display your team members in a stylish way."
+msgstr "Vis frem dine medarbeidere på en stilig måte."
+
+#: widgets/fp-clients.php:111
+msgid "See all our clients"
+msgstr "Se alle våre klienter"
+
+#: widgets/fp-clients.php:32
+msgid "Enter the slug for your category or leave empty to show all clients."
+msgstr "Oppgi permalenken for din kategori eller la stå tomt for å vise innlegg fra alle klienter. "
+
+#: widgets/fp-clients.php:30
+msgid "The text for the button [Defaults to <em>See all our clients</em> if left empty]"
+msgstr "Knappens tekst [viser <em>Se alle våre klienter</em> hvis tom]"
+
+#: widgets/fp-clients.php:28
+msgid "The URL for your button [In case you want a button below your clients block]"
+msgstr "Knappens URL [dersom du ønsker å vise en knapp under klientblokken]"
+
+#: widgets/fp-clients.php:26
+msgid "Number of clients to show (-1 shows all of them):"
+msgstr "Antall kunder å vise (-1 viser alle):"
+
+#: widgets/fp-clients.php:21
+msgid "In order to display this widget, you must first add some clients from your admin area. Set your client logos as featured images."
+msgstr "For å vise denne widgeten, må du først legge til klienter i administrasjonen. Benytt klientens logo som fremhevet bilde."
+
+#: widgets/fp-clients.php:7
+msgid "Sydney FP: Clients"
+msgstr "Sydney FP: Klienter"
+
+#: widgets/fp-clients.php:6
+msgid "Display your clients list."
+msgstr "Vis din klientliste."
+
+#: widgets/fp-call-to-action.php:27
+msgid "Display the button inline with the text?"
+msgstr "Vis knappen inline med tekst?"
+
+#: widgets/fp-call-to-action.php:24
+msgid "Title for the button"
+msgstr "Tittel på knappen"
+
+#: widgets/fp-call-to-action.php:22
+msgid "Link for the button"
+msgstr "Link for knappen"
+
+#: widgets/fp-call-to-action.php:20
+msgid "Enter your call to action."
+msgstr "Skriv inn din aksjonsoppfordring."
+
+#: widgets/fp-call-to-action.php:7
+msgid "Sydney FP: Call to action"
+msgstr "Sydney FP: Aksjonsoppfordring"
+
+#: widgets/fp-call-to-action.php:6
+msgid "Display a call to action block."
+msgstr "Vis en aksjonsoppfordringsblokk"
+
+#: widgets/contact-info.php:30
+msgid "Enter your email address"
+msgstr "Skriv inn din e-post adresse"
+
+#: widgets/contact-info.php:27
+msgid "Enter your phone number"
+msgstr "Skriv inn ditt telefonnummer"
+
+#: widgets/contact-info.php:24
+msgid "Enter your address"
+msgstr "Skriv inn din adresse"
+
+#: widgets/fp-employees.php:23 widgets/fp-call-to-action.php:18
+#: widgets/contact-info.php:20 widgets/fp-latest-news.php:19
+#: widgets/fp-skills.php:24 widgets/fp-testimonials.php:22
+#: widgets/fp-services-type-a.php:30 widgets/video-widget.php:20
+#: widgets/fp-clients.php:23 widgets/fp-services-type-b.php:29
+#: widgets/fp-facts.php:32
+msgid "Title"
+msgstr "Tittel"
+
+#: widgets/contact-info.php:7
+msgid "Sydney: Contact info"
+msgstr "Sydney: Kontaktinformasjon"
+
+#: widgets/contact-info.php:6
+msgid "Display your contact info"
+msgstr "Vis din kontaktinformasjon"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer utvidelse %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Alle installasjoner er ferdige."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s installert med suksess."
+
+#: plugins/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installasjonsprosessen har startet. Dette kan ta litt tid avhengig av din serverleverandør, så vennligst ha tålmodighet."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: plugins/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installerer og aktiverer innstikket %1$s (%2$d/%3$d)"
+
+#: plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Alle installasjoner og aktiveringer er fullført."
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Skjul detaljer"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+#: plugins/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Vis detaljer"
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s ble installert og aktivert med suksess."
+
+#: plugins/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Installasjon- og aktiveringsprosessen har startet. Dette kan ta litt tid avhengig av din serverleverandør, så vennligst ha tålmodighet. "
+
+#. translators: 1: plugin name.
+#: plugins/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Installasjonen av %1$s feilet."
+
+#. translators: 1: plugin name, 2: error message.
+#: plugins/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "En feil oppstod under installasjonen av %1$s: <strong>%2$s</strong>."
+
+#: plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Aktivering av utvidelsen feilet."
+
+#: plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Ingen utvidelser kan aktiveres for øyeblikket."
+
+#: plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Ingen utvidelser kan installeres for øyeblikket."
+
+#: plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Aktiver"
+
+#: plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installer"
+
+#: plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Kilde"
+
+#: plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Utvidelse"
+
+#: plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installert, men ikke aktivert"
+
+#: plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Ikke installert"
+
+#: plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Anbefalt"
+
+#: plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Obligatorisk"
+
+#: plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress-repositoriet"
+
+#: plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Forhåndspakket"
+
+#: plugins/class-tgm-plugin-activation.php:386
+#: plugins/class-tgm-plugin-activation.php:827
+#: plugins/class-tgm-plugin-activation.php:2533
+#: plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Returner til Kontrollpanelet"
+
+#: plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Fjern denne meldingen"
+
+#. translators: 1: dashboard link.
+#: plugins/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle utvidelser ble installert og aktivert med suksess. %1$s"
+
+#: plugins/class-tgm-plugin-activation.php:388
+#: plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Følgende utvidelse ble aktivert med suksess:"
+msgstr[1] ""
+
+#: plugins/class-tgm-plugin-activation.php:387
+#: plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Tillegg ble aktivert"
+
+#: plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Gå tilbake til installasjon av tillegg"
+
+#: plugins/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Start aktivering av utvidelse"
+msgstr[1] "Start aktivering av utvidelser"
+
+#: plugins/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Start installasjon av utvidelse"
+msgstr[1] "Start installasjon av utvidelser"
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Den følgende utvidelsen trenger å oppdateres til sin siste versjon for å sikre maksimal kompatibilitet med dette temaet: %1$s."
+msgstr[1] "De følgende utvidelsene trenger å oppdateres til sine siste versjoner for å sikre maksimal kompatibilitet med dette temaet: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Følgende anbefalte utvidelse er for tiden inaktiv: %1$s."
+msgstr[1] "Følgende anbefalte utvidelser er for tiden inaktive: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Følgende nødvendige utvidelse er for tiden inaktiv: %1$s."
+msgstr[1] "Følgende nødvendige utvidelser er for tiden inaktive: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dette temaet anbefaler følgende utvidelse: %1$s."
+msgstr[1] "Dette temaet anbefaler følgende utvidelser: %1$s."
+
+#. translators: 1: plugin name(s).
+#: plugins/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dette temaet krever følgende utvidelse: %1$s."
+msgstr[1] "Dette temaet krever følgende utvidelsee: %1$s."
+
+#. translators: %s: plugin name.
+#: plugins/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Installerer utvidelse: %s"
+
+#: plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Installer utvidelser"
+
+#: plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Installer nødvendige utvidelser"
+
+#: inc/template-tags.php:173
+msgid "Archives"
+msgstr "Arkiv"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:171
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:167
+msgid "Archives: %s"
+msgstr "Arkiv: %s"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Samtaler"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Lyder"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statusoppdateringer"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Lenker"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Sitater"
+
+#: inc/template-tags.php:154
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videoer"
+
+#: inc/template-tags.php:152
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/template-tags.php:150
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: inc/template-tags.php:148
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Notiser"
+
+#: inc/template-tags.php:145
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j. F Y"
+
+#: inc/template-tags.php:145
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:143
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:143
+msgid "Month: %s"
+msgstr "Måned: %s"
+
+#: inc/template-tags.php:141
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:141
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:139
+msgid "Author: %s"
+msgstr "Forfatter: %s"
+
+#: inc/template-tags.php:137
+msgid "Tag: %s"
+msgstr "Stikkord: %s"
+
+#: inc/template-tags.php:135
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:115
+msgid " %1$s"
+msgstr " %1$s"
+
+#: inc/template-tags.php:100
+msgid "Posted in %1$s"
+msgstr "Skrevet i %1$s"
+
+#: inc/template-tags.php:98
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:94
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:94
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:94
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#: inc/template-tags.php:86
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:277
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publisert den %s"
+
+#: inc/template-tags.php:51
+msgid "Post navigation"
+msgstr "Innleggsnavigasjon"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Nyere innlegg"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Eldre innlegg"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Innleggsnavigasjon"
+
+#: inc/page-builder.php:101
+msgid "45px"
+msgstr "45px"
+
+#: inc/page-builder.php:100
+msgid "30px"
+msgstr "30px"
+
+#: inc/page-builder.php:99
+msgid "15px"
+msgstr "15px"
+
+#: inc/page-builder.php:98
+msgid "0"
+msgstr "0"
+
+#: inc/page-builder.php:97
+msgid "Default"
+msgstr "Standard"
+
+#: inc/page-builder.php:95
+msgid "Here you can select a top/bottom row padding for screen sizes < 1024px"
+msgstr "Her kan du velge en rad-polstring i topp/bunn for skjermer < 1024px"
+
+#: inc/page-builder.php:93
+msgid "Mobile padding"
+msgstr "Mobil polstring"
+
+#: inc/page-builder.php:87
+msgid "Background image of the row."
+msgstr "Bakgrunnsbilde for raden."
+
+#: inc/page-builder.php:85
+msgid "Background Image"
+msgstr "Bakgrunnsbilde"
+
+#: inc/page-builder.php:80
+msgid "Color of the row."
+msgstr "Farge på raden."
+
+#: inc/page-builder.php:78
+msgid "Color"
+msgstr "Farge"
+
+#: inc/page-builder.php:72
+msgid "This may or may not work. It depends on the widget styles."
+msgstr "Dette kan feile, avhengig av widget-stilene."
+
+#: inc/page-builder.php:70
+msgid "Center align the content?"
+msgstr "Sentrer innholdet?"
+
+#: inc/page-builder.php:63
+msgid "Top/bottom padding"
+msgstr "Polstring i topp/bunn"
+
+#: inc/page-builder.php:57
+msgid "Bottom Border Color"
+msgstr "Farge for kantlinje i bunn"
+
+#: inc/page-builder.php:44
+msgid "Sydney Theme Widgets"
+msgstr "Widgeter for temaet Sydney"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "Side %s"
+
+#: inc/customizer.php:1792
+msgid "Nothing (only menu)"
+msgstr "Ingenting (kun meny)"
+
+#: inc/customizer.php:1764
+msgid "2. A full theme demo can be found "
+msgstr "2. En fullstendig tema-demo kan finnes"
+
+#: inc/customizer.php:1764
+msgid "1. Documentation for Sydney can be found "
+msgstr "1. Dokumentasjon fra Sydney kan finnes"
+
+#: inc/customizer.php:1762
+msgid "Theme info"
+msgstr "Temainformasjon"
+
+#: inc/customizer.php:1749
+msgid "Rows overlay"
+msgstr "Dekke for rader"
+
+#: inc/customizer.php:1730
+msgid "Footer color"
+msgstr "Footer-farge"
+
+#: inc/customizer.php:1710
+msgid "Footer background"
+msgstr "Bakgrunn for sidebunn"
+
+#: inc/customizer.php:1690
+msgid "Footer widget area color"
+msgstr "Farge på widgetområde i sidebunn"
+
+#: inc/customizer.php:1670
+msgid "Footer widget area background"
+msgstr "Bakgrunn for widgetområde i sidebunn"
+
+#: inc/customizer.php:1650
+msgid "Sidebar color"
+msgstr "Farge for sidestolpe"
+
+#: inc/customizer.php:1630
+msgid "Sidebar background"
+msgstr "Bakgrunn for sidestolpe"
+
+#: inc/customizer.php:1610
+msgid "Body text"
+msgstr "Innholdsområde-tekst"
+
+#: inc/customizer.php:1590
+msgid "Header slider text"
+msgstr "Tekst for karusuell i sidetopp"
+
+#: inc/customizer.php:1551
+msgid "Sub-menu background"
+msgstr "Undermeny, bakgrunnsfarge"
+
+#: inc/customizer.php:1532
+msgid "Sub-menu items"
+msgstr "Undermenyelementer"
+
+#: inc/customizer.php:1492
+msgid "Top level menu items"
+msgstr "Toppnivåmenyelementer"
+
+#: inc/customizer.php:1431
+msgid "Menu background"
+msgstr "Menybakgrunn"
+
+#: inc/customizer.php:1411
+msgid "Primary color"
+msgstr "Primærfarge"
+
+#: inc/customizer.php:1341
+msgid "Body font size"
+msgstr "Skriftstørrelse for innholdsområde"
+
+#: inc/customizer.php:1322
+msgid "H6 font size"
+msgstr "Skriftstørrelse for H6"
+
+#: inc/customizer.php:1303
+msgid "H5 font size"
+msgstr "H5 fontstørrelse"
+
+#: inc/customizer.php:1284
+msgid "H4 font size"
+msgstr "H4 fontstørrelse"
+
+#: inc/customizer.php:1265
+msgid "H3 font size"
+msgstr "H3 fontstørrelse"
+
+#: inc/customizer.php:1246
+msgid "H2 font size"
+msgstr "H2 skriftstørrelse"
+
+#: inc/customizer.php:1227
+msgid "H1 font size"
+msgstr "H1 skriftstørrelse"
+
+#: inc/customizer.php:1208
+msgid "Menu items"
+msgstr "Menyelementer"
+
+#: inc/customizer.php:1189 inc/customizer.php:1472
+msgid "Site description"
+msgstr "Sidebeskrivelse"
+
+#: inc/customizer.php:1170 inc/customizer.php:1451
+msgid "Site title"
+msgstr "Nettstedstittel"
+
+#: inc/customizer.php:1152
+msgid "Font sizes"
+msgstr "Skriftstørrelse"
+
+#: inc/customizer.php:1104
+msgid "Headings fonts"
+msgstr "Skrifttype for overskrifter"
+
+#: inc/customizer.php:1090 inc/customizer.php:1138
+msgid "Font family"
+msgstr "Skriftfamilie"
+
+#: inc/customizer.php:1073 inc/customizer.php:1121
+msgid "Font name/style/sets"
+msgstr "Navn på skrifttype/stil/sett"
+
+#: inc/customizer.php:1056
+msgid "Body fonts"
+msgstr "Skrifttyper for innholdsområdet"
+
+#: inc/customizer.php:1043
+msgid "Fonts"
+msgstr "Skrifter"
+
+#: inc/customizer.php:1032 inc/customizer.php:1823
+msgid "Four"
+msgstr "Fire"
+
+#: inc/customizer.php:1031 inc/customizer.php:1822
+msgid "Three"
+msgstr "Tre"
+
+#: inc/customizer.php:1030 inc/customizer.php:1821
+msgid "Two"
+msgstr "To"
+
+#: inc/customizer.php:1029 inc/customizer.php:1820
+msgid "One"
+msgstr "En"
+
+#: inc/customizer.php:1027
+msgid "Select the number of widget areas you want in the footer. After that, go to Appearance > Widgets and add your widgets."
+msgstr "Velg antall widget-områder du ønsker i sidebunnen. Etter det, gå til Utseende > Widgets og legg til ønskede widgets."
+
+#: inc/customizer.php:1025
+msgid "Footer widget area"
+msgstr "Widget-område i sidebunnen"
+
+#: inc/customizer.php:1009 inc/customizer.php:1393
+msgid "Footer"
+msgstr "Bunntekst"
+
+#: inc/customizer.php:996
+msgid "Check this box to hide featured images on single posts"
+msgstr "Merk av, dersom du ønsker å skjule fremhevede bilder på enkeltinnlegg"
+
+#: inc/customizer.php:980
+msgid "Check this box to hide featured images on index, archives etc."
+msgstr "Merk av, dersom du ønsker å skjule fremhevede bilder på index, arkiv, etc. "
+
+#: inc/customizer.php:963
+msgid "Featured images"
+msgstr "Fremhevede bilder"
+
+#: inc/customizer.php:950
+msgid "Hide post meta on singles?"
+msgstr "Skul innleggsmeta på enkeltinnlegg?"
+
+#: inc/customizer.php:933
+msgid "Hide post meta on index, archives?"
+msgstr "Skjul innleggsmeta på index, arkiv?"
+
+#: inc/customizer.php:915
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/customizer.php:900
+msgid "Choose your excerpt length. Default: 55 words"
+msgstr "Velg lengde på utrdag. Standard: 55 ord"
+
+#: inc/customizer.php:899
+msgid "Excerpt length"
+msgstr "Utdrag, lengde"
+
+#: inc/customizer.php:882
+msgid "Check this box to display the full content of your posts on all archives."
+msgstr "Merk av, dersom du ønsker å vise hele innlegget på i alle arkiv."
+
+#: inc/customizer.php:866
+msgid "Check this box to display the full content of your posts on the home page."
+msgstr "Merk av, dersom du ønsker å vise hele innlegget på forsiden."
+
+#: inc/customizer.php:848
+msgid "Content/excerpt"
+msgstr "Innhold/utdrag"
+
+#: inc/customizer.php:835
+msgid "Full width single posts?"
+msgstr "Fullbredde enkeltinnlegg?"
+
+#: inc/customizer.php:820 inc/customizer.php:1850
+msgid "Masonry (grid style)"
+msgstr "Murverk (rutenettstil)"
+
+#: inc/customizer.php:819 inc/customizer.php:1849
+msgid "Full width (no sidebar)"
+msgstr "Fast bredde (ingen sidebar)"
+
+#: inc/customizer.php:816 inc/customizer.php:1846
+msgid "Classic"
+msgstr "Klassisk"
+
+#: inc/customizer.php:812
+msgid "Blog layout"
+msgstr "Bloggoppsett"
+
+#: inc/customizer.php:795
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/theme-info.php:180 inc/customizer.php:783
+msgid "Blog options"
+msgstr "Bloggalternativer"
+
+#: inc/customizer.php:771
+msgid "Upload your logo"
+msgstr "Last opp din logo"
+
+#: inc/customizer.php:753
+msgid "Disable the overlay?"
+msgstr "Deaktiver dekket?"
+
+#: inc/customizer.php:735
+msgid "Header height [default: 300px]"
+msgstr "Høyde på sidetopp (standard: 300px)"
+
+#: inc/customizer.php:719 inc/customizer.php:1809
+msgid "Contain"
+msgstr "Inneholder"
+
+#: inc/customizer.php:718 inc/customizer.php:1808
+msgid "Cover"
+msgstr "Cover"
+
+#: inc/customizer.php:715
+msgid "Header background size"
+msgstr "Størrelse på bakgrunn for sidehode"
+
+#: inc/customizer.php:698 inc/customizer.php:1875
+msgid "Centered (menu and site logo)"
+msgstr "Sentrert (meny og nettstedslogo)"
+
+#: inc/customizer.php:697 inc/customizer.php:1874
+msgid "Inline"
+msgstr "På linje"
+
+#: inc/customizer.php:677 inc/customizer.php:1835
+msgid "Static"
+msgstr "Statisk"
+
+#: inc/customizer.php:676 inc/customizer.php:1834
+msgid "Sticky"
+msgstr "Klebrig"
+
+#: inc/customizer.php:673
+msgid "Sticky menu"
+msgstr "Klebrig meny"
+
+#: inc/customizer.php:655 inc/customizer.php:694
+msgid "Menu style"
+msgstr "Menystil"
+
+#: inc/customizer.php:645
+msgid "Text for your call to action button"
+msgstr "Tekst for din aksjonsoppfordringsknapp"
+
+#: inc/customizer.php:637
+msgid "Click to begin"
+msgstr "Klikk for å starte"
+
+#: inc/customizer.php:628
+msgid "URL for your call to action button"
+msgstr "URL for din aksjonsoppfordringsknapp"
+
+#: inc/customizer.php:611
+msgid "Call to action button"
+msgstr "Aksjonsoppfordringsknapp"
+
+#: inc/customizer.php:597
+msgid "Subtitle for the fifth slide"
+msgstr "Undertittel for den femte sliden"
+
+#: inc/customizer.php:579
+msgid "Title for the fifth slide"
+msgstr "Tittel for den femte sliden"
+
+#: inc/customizer.php:559
+msgid "Upload your fifth image for the slider"
+msgstr "Last opp ditt femte bilde for slideren"
+
+#: inc/customizer.php:540
+msgid "Fifth slide"
+msgstr "Femte sliden"
+
+#: inc/customizer.php:526
+msgid "Subtitle for the fourth slide"
+msgstr "Undertittel for den fjerde sliden"
+
+#: inc/customizer.php:508
+msgid "Title for the fourth slide"
+msgstr "Tittel for den fjerde sliden"
+
+#: inc/customizer.php:488
+msgid "Upload your fourth image for the slider"
+msgstr "Last opp ditt fjerde bilde for slideren"
+
+#: inc/customizer.php:469
+msgid "Fourth slide"
+msgstr "Fjerde slide"
+
+#: inc/customizer.php:455
+msgid "Subtitle for the third slide"
+msgstr "Undertittel for den tredje sliden"
+
+#: inc/customizer.php:437
+msgid "Title for the third slide"
+msgstr "Tittel for den tredje sliden"
+
+#: inc/customizer.php:417
+msgid "Upload your third image for the slider"
+msgstr "Last opp ditt tredje bilde for slideren"
+
+#: inc/customizer.php:398
+msgid "Third slide"
+msgstr "Tredje slide"
+
+#: inc/customizer.php:384
+msgid "Subtitle for the second slide"
+msgstr "Undertittel for den andre sliden"
+
+#: inc/customizer.php:366
+msgid "Title for the second slide"
+msgstr "Tittel for den andre sliden"
+
+#: inc/customizer.php:346
+msgid "Upload your second image for the slider"
+msgstr "Last opp ditt andre bilde for slideren"
+
+#: inc/customizer.php:327
+msgid "Second slide"
+msgstr "Andre karusellbilde"
+
+#: inc/customizer.php:313
+msgid "Subtitle for the first slide"
+msgstr "Undertittel for første karusellbilde"
+
+#: inc/customizer.php:295
+msgid "Title for the first slide"
+msgstr "Overskrift for første karusellbilde"
+
+#: inc/customizer.php:275
+msgid "Upload your first image for the slider"
+msgstr "Last opp ditt første bilde til karusellen"
+
+#: inc/customizer.php:256
+msgid "First slide"
+msgstr "Første karusellbilde"
+
+#: inc/customizer.php:243
+msgid "Stop the text slider?"
+msgstr "Stoppe tekst-karusellen?"
+
+#: inc/customizer.php:229
+msgid "Slider speed in miliseconds. Use 0 to disable [default: 4000]"
+msgstr "Hastighet på karusellen i millisekunder. Bruk 0 for å deaktivere [standard: 4000]"
+
+#: inc/customizer.php:226
+msgid "Slider speed"
+msgstr "Gliderhastighet"
+
+#: inc/customizer.php:219
+msgid "4000"
+msgstr "4000"
+
+#: inc/customizer.php:188
+msgid "Header Slider"
+msgstr "Karusell i sidetopp"
+
+#: inc/customizer.php:157 inc/customizer.php:180
+msgid "No header (only menu)"
+msgstr "Ingen header (kun meny)"
+
+#: inc/customizer.php:155 inc/customizer.php:178 inc/customizer.php:1790
+msgid "Image"
+msgstr "Bilde"
+
+#: inc/customizer.php:152
+msgid "Select the header type for your front page"
+msgstr "Velg den type sidetopp du ønsker på forsiden"
+
+#: inc/customizer.php:150
+msgid "Front page header type"
+msgstr "Type sidetopp for forsiden"
+
+#: inc/customizer.php:132
+msgid "Header type"
+msgstr "Type sidetopp"
+
+#: inc/customizer.php:126
+msgid "Header area"
+msgstr "Sidetopp-område"
+
+#: inc/customizer.php:17 inc/customizer.php:70
+msgid "General"
+msgstr "Generelt"
+
+#: inc/customizer.php:16
+msgid "Site title/tagline/logo"
+msgstr "Nettstedstittel/slagord/logo"
+
+#: header.php:30
+msgid "Skip to content"
+msgstr "Hopp til innhold"
+
+#: functions.php:265
+msgid "Create your menu here"
+msgstr "Opprett din meny her"
+
+#: functions.php:109
+msgid "Footer "
+msgstr "Bunntekst"
+
+#: inc/customizer.php:1385 functions.php:96
+msgid "Sidebar"
+msgstr "Sidekolonnen"
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr "Primærmeny"
+
+#: footer.php:26
+msgid "Theme: %2$s by %1$s."
+msgstr "Tema: %2$s av %1$s."
+
+#: footer.php:24
+msgid "Proudly powered by %s"
+msgstr "Stolt drevet av %s"
+
+#: footer.php:24
+msgid "https://wordpress.org/"
+msgstr "https://nb.wordpress.org/"
+
+#: content-page.php:25 inc/template-tags.php:118
+msgid "Edit"
+msgstr "Rediger"
+
+#: content-single.php:36 content-modern.php:35 content.php:34
+#: content-classic-alt.php:34 content-page.php:18 content-search.php:32
+msgid "Pages:"
+msgstr "Sider:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men det ble ikke funnet noe som passet det du søkte etter. Vennligst prøv med noen andre søkeord."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr "Det er stengt for kommentarer."
+
+#: comments.php:37 comments.php:55
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:36 comments.php:54
+msgid "&larr; Older Comments"
+msgstr "&larr; Eldre kommentarer"
+
+#: comments.php:35 comments.php:53
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "En kommentar om &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer om &ldquo;%2$s&rdquo;"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ser ikke ut som at det er noe her. Kanskje du kan prøve en av lenkene nedenfor, eller et søk?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Denne siden ble ikke funnet"
+
+#. Author URI of the theme
+msgid "https://athemes.com"
+msgstr "https://athemes.com"
+
+#. Author of the theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the theme
+msgid "https://athemes.com/theme/sydney"
+msgstr "https://athemes.com/theme/sydney"
