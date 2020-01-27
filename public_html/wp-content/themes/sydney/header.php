@@ -22,7 +22,14 @@
 	<?php endif; ?>
 
 	<?php wp_head(); ?>
+
 	<link rel='stylesheet' id='ya-fonts-css'  href='/wp-includes/fonts/raleway/raleway.css' type='text/css' media='all' />
+    <style id='yo-style-inline-css' type='text/css'>
+        .site-header { background-color:rgba(38,50,70,0.9);}
+        .site-header.float-header { background-color:rgba(38,50,70,0.9);}
+        @media only screen and (max-width: 1024px) { .site-header { background-color:rgba(38,50,70,0.9);}}
+    </style>
+
 </head>
 
 <body <?php body_class(); ?>>

@@ -43,7 +43,7 @@ function sydney_post_navigation() {
 	$previous = ( is_attachment() ) ? get_post( get_post()->post_parent ) : get_adjacent_post( false, '', true );
 	$next     = get_adjacent_post( false, '', false );
 
-	if ( ! $next && ! $previous ) {
+	if ( /* ! $next && ! $previous */ true /* yo */ ) {
 		return;
 	}
 	?>
@@ -78,12 +78,12 @@ function sydney_posted_on() {
 	);
 
 	$posted_on = sprintf(
-		_x( 'Posted %s', 'post date', 'sydney' ),
+		_x( 'Posted: %s', 'post date', 'sydney' ),
 		'<a href="' . esc_url( get_permalink() ) . '" rel="bookmark">' . $time_string . '</a>'
 	);
 
 	$byline = sprintf(
-		_x( 'Author %s', 'post author', 'sydney' ),
+		_x( 'Author: %s', 'post author', 'sydney' ),
 		'<span class="author vcard"><a class="url fn n" href="' . esc_url( get_author_posts_url( get_the_author_meta( 'ID' ) ) ) . '">' . esc_html( get_the_author() ) . '</a></span>'
 	);
 
@@ -116,7 +116,9 @@ if ( ! function_exists( 'sydney_entry_footer' ) ) {
 			// var_dump($tags_list);
 			if ( $tags_list && is_single() ) {
 				// printf( '<span class="tags-links">' . __( ' %1$s', 'sydney' ) . '</span>', $tags_list );
-				printf( '<div class="tag_links_border_left"><span class="tags-links">' . __( ' %1$s', 'sydney' ) . '</span></div>', $tags_list );
+				$add1 = '<div class="yo_tag_links"><h3>метки:</h3>';
+				$add2 = '</div>';
+				printf( '<span class="tags-links">' . $add1 . __( ' %1$s', 'sydney' ) . '</span>' . $add2, $tags_list );
 			}
 		}
 		edit_post_link( __( 'Edit', 'sydney' ), '<span class="edit-link">', '</span>' );

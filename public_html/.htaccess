@@ -1,4 +1,21 @@
 
+#php_value display_errors 1
+#php_value display_startup_errors 1
+#php_value error_reporting E_ALL
+
+
+
+RewriteEngine on
+
+#Перенаправление с www.domain.com на domain.com
+RewriteCond %{HTTP_HOST} ^www.0b1101.site$ [NC]
+RewriteRule (.*) https://0b1101.site$1 [R=301]
+
+
+#Перенаправление на HTTPS
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+
 # BEGIN WordPress
 
 # END WordPress

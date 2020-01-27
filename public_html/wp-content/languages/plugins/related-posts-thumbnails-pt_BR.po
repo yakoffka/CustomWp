@@ -1,0 +1,296 @@
+# Translation of Plugins - Related Posts Thumbnails Plugin for WordPress - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Related Posts Thumbnails Plugin for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-27 22:46:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Related Posts Thumbnails Plugin for WordPress - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://shaldybina.com/"
+msgstr "http://shaldybina.com/"
+
+#. Author of the plugin/theme
+msgid "Maria Shaldybina"
+msgstr "Maria Shaldybina"
+
+#. Description of the plugin/theme
+msgid "Showing related posts thumbnails under the post."
+msgstr "Mostrando miniaturas de posts relacionados abaixo do post."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.shaldybina.com/plugins/related-posts-thumbnails/"
+msgstr "http://wordpress.shaldybina.com/plugins/related-posts-thumbnails/"
+
+#: related-posts-thumbnails.php:842
+msgid "Title:"
+msgstr "Título:"
+
+#: related-posts-thumbnails.php:789
+msgid "All"
+msgstr "Todos"
+
+#: related-posts-thumbnails.php:782
+msgid "If you experience some problems with this plugin please let me know about it on <a href=\"http://wordpress.shaldybina.com/plugins/related-posts-thumbnails/\">Plugin's homepage</a>. If you think this plugin is awesome please vote on <a href=\"http://wordpress.org/extend/plugins/related-posts-thumbnails/\">Wordpress plugin page</a>. Thanks!"
+msgstr "Se você tiver algum problema com esse plugin, peço que me informe sobre isso na <a href=\"http://wordpress.shaldybina.com/plugins/related-posts-thumbnails/\">página do plugin</a>. Se você acha que este plugin é incrível, avalie na <a href=\"http://wordpress.org/extend/plugins/related-posts-thumbnails/\">página do plugin no WordPress</a>. Agradeço!"
+
+#: related-posts-thumbnails.php:778
+msgid "Save Changes"
+msgstr "Salvar mudanças"
+
+#: related-posts-thumbnails.php:758
+msgid "Relation based on"
+msgstr "Relação baseada em"
+
+#: related-posts-thumbnails.php:755
+msgid "Relation Builder Options"
+msgstr "Opções do construtor de relações"
+
+#: related-posts-thumbnails.php:747
+msgid "Text block height"
+msgstr "Altura do bloco de texto"
+
+#: related-posts-thumbnails.php:743
+msgid "Set 0 for no excerpt"
+msgstr "Definir 0 para sem resumo"
+
+#: related-posts-thumbnails.php:740
+msgid "Excerpt maximum length"
+msgstr "Máximo de caracteres do resumo"
+
+#: related-posts-thumbnails.php:736
+msgid "Set 0 for no title"
+msgstr "Definir 0 para sem título"
+
+#: related-posts-thumbnails.php:733
+msgid "Text maximum length"
+msgstr "Máximo de caracteres do texto"
+
+#: related-posts-thumbnails.php:727
+msgid "Font size"
+msgstr "Tamanho da fonte"
+
+#: related-posts-thumbnails.php:721
+msgid "Font family"
+msgstr "Família da fonte"
+
+#: related-posts-thumbnails.php:715
+msgid "Font color"
+msgstr "Cor da fonte"
+
+#: related-posts-thumbnails.php:709
+msgid "Border color"
+msgstr "Cor da borda"
+
+#: related-posts-thumbnails.php:703
+msgid "Background color on mouse over"
+msgstr "Cor do fundo quando passar o mouse"
+
+#: related-posts-thumbnails.php:697
+msgid "Background color"
+msgstr "Cor de fundo"
+
+#: related-posts-thumbnails.php:693
+msgid "Turn off plugin styles"
+msgstr "Desativar estilos do plugin"
+
+#: related-posts-thumbnails.php:686
+msgid "Output style"
+msgstr "Estilo da exibição"
+
+#: related-posts-thumbnails.php:683
+msgid "Style options"
+msgstr "Opções de estilo"
+
+#: related-posts-thumbnails.php:677
+msgid "If your theme resizes images, enter URL to its resizing PHP file"
+msgstr "Se o seu tema redimensiona as imagens, informe o URL para seu arquivo PHP de redimensionamento"
+
+#: related-posts-thumbnails.php:674
+msgid "Theme resize url"
+msgstr "URL de redimensionamento do tema"
+
+#: related-posts-thumbnails.php:670
+msgid "Height"
+msgstr "Altura"
+
+#: related-posts-thumbnails.php:669
+msgid "Width"
+msgstr "Largura"
+
+#: related-posts-thumbnails.php:667
+msgid "Size"
+msgstr "Tamanho"
+
+#: related-posts-thumbnails.php:661
+msgid "Custom field name"
+msgstr "Nome do campo personalizado"
+
+#: related-posts-thumbnails.php:651
+msgid "Only posts with assigned Featured Image"
+msgstr "Apenas posts com uma imagem destacada atribuída"
+
+#: related-posts-thumbnails.php:648
+msgid "Show posts only with thumbnails"
+msgstr "Mostrar apenas posts com miniaturas"
+
+#: related-posts-thumbnails.php:642
+msgid "Your theme has to support post-thumbnails to have more choices"
+msgstr "Seu tema tem que ter suporte à imagens destacadas para ter mais opções"
+
+#: related-posts-thumbnails.php:634
+msgid "Post-thumbnails name"
+msgstr "Nome da imagem"
+
+#: related-posts-thumbnails.php:619 related-posts-thumbnails.php:631
+#: related-posts-thumbnails.php:658
+msgid "Thumbnails source"
+msgstr "Fonte das miniaturas"
+
+#: related-posts-thumbnails.php:613
+msgid "Default image URL"
+msgstr "URL da imagem padrão"
+
+#: related-posts-thumbnails.php:607
+msgid "Number of similar posts to display"
+msgstr "Número de posts semelhantes a exibir"
+
+#: related-posts-thumbnails.php:601
+msgid "Top text"
+msgstr "Texto superior"
+
+#: related-posts-thumbnails.php:597
+msgid "Leave empty for all posts dates"
+msgstr "Deixe vazio para todas as datas de posts"
+
+#: related-posts-thumbnails.php:597
+msgid "Day"
+msgstr "Dia"
+
+#: related-posts-thumbnails.php:597
+msgid "Month"
+msgstr "Mês"
+
+#: related-posts-thumbnails.php:597
+msgid "Year"
+msgstr "Ano"
+
+#: related-posts-thumbnails.php:595
+msgid "Include only posts after"
+msgstr "Incluir apenas posts após"
+
+#: related-posts-thumbnails.php:589
+msgid "Categories that will appear in related thumbnails"
+msgstr "Categorias que aparecerão nos posts relacionados"
+
+#: related-posts-thumbnails.php:583
+msgid "Categories on which related thumbnails will appear"
+msgstr "Categorias nas quais os posts relacionados aparecerão"
+
+#: related-posts-thumbnails.php:572
+msgid "Post types"
+msgstr "Tipos de post"
+
+#: related-posts-thumbnails.php:568
+msgid "Show on single posts only"
+msgstr "Mostrar apenas nos posts individuais"
+
+#: related-posts-thumbnails.php:565
+msgid "Page type"
+msgstr "Tipo de página"
+
+#: related-posts-thumbnails.php:561
+msgid "This will add debugging information in HTML source"
+msgstr "Isso adicionará informações de depuração ao código-fonte HTML"
+
+#: related-posts-thumbnails.php:558
+msgid "Developer mode"
+msgstr "Modo de desenvolvedor"
+
+#: related-posts-thumbnails.php:554
+msgid "Or use <b>&lt;?php get_related_posts_thumbnails(); ?&gt;</b> in the Loop"
+msgstr "Ou use <b>&lt;?php get_related_posts_thumbnails(); ?&gt;</b> no loop"
+
+#: related-posts-thumbnails.php:551
+msgid "Automatically append to the post content"
+msgstr "Adicionar automaticamente ao conteúdo do post"
+
+#: related-posts-thumbnails.php:548
+msgid "General Display Options"
+msgstr "Opções gerais de exibição"
+
+#: related-posts-thumbnails.php:542
+msgid "Related Posts Thumbnails Settings"
+msgstr "Configurações dos posts relacionados"
+
+#: related-posts-thumbnails.php:499
+msgid "(This option is available for WP v3+ only)"
+msgstr "(Esta opção está disponível apenas para WP 3.0 ou superior)"
+
+#: related-posts-thumbnails.php:489
+msgid "Custom"
+msgstr "Personalizado"
+
+#: related-posts-thumbnails.php:489
+msgid "Random"
+msgstr "Aleatório"
+
+#: related-posts-thumbnails.php:489
+msgid "Categories and Tags"
+msgstr "Categorias e tags"
+
+#: related-posts-thumbnails.php:489
+msgid "Tags"
+msgstr "Tags"
+
+#: related-posts-thumbnails.php:489
+msgid "Categories"
+msgstr "Categorias"
+
+#: related-posts-thumbnails.php:488
+msgid "List"
+msgstr "Lista"
+
+#: related-posts-thumbnails.php:488
+msgid "Blocks"
+msgstr "Blocos"
+
+#: related-posts-thumbnails.php:477
+msgid "Custom field"
+msgstr "Campo personalizado"
+
+#: related-posts-thumbnails.php:477
+msgid "Post thumbnails"
+msgstr "Miniaturas do post"
+
+#: related-posts-thumbnails.php:454
+msgid "Settings update failed"
+msgstr "Falha na atualização de configurações"
+
+#: related-posts-thumbnails.php:451
+msgid "Settings updated"
+msgstr "Configurações atualizadas"
+
+#: related-posts-thumbnails.php:412
+msgid "Wrong date"
+msgstr "Data errada"
+
+#: related-posts-thumbnails.php:404
+msgid "No access"
+msgstr "Sem acesso"
+
+#: related-posts-thumbnails.php:398
+msgid "Related Posts Thumbs"
+msgstr "Posts Relacionados"
+
+#. #-#-#-#-#  tmp-related-posts-thumbnails.pot (Related Posts Thumbnails 1.3.1)
+#.  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: related-posts-thumbnails.php:398
+msgid "Related Posts Thumbnails"
+msgstr "Related Posts Thumbnails"
