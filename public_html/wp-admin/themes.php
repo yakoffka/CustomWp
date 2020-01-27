@@ -315,11 +315,18 @@ foreach ( $themes as $theme ) :
 		<div class="theme-screenshot blank"></div>
 	<?php } ?>
 
-	<?php if ( $theme['hasUpdate'] ) : ?>
+	<?php // if ( $theme['hasUpdate'] ) : ?>
+	<?php if ( $theme['hasUpdate'] && $theme['name'] !== 'Sydney' ) : ?>
 		<div class="update-message notice inline notice-warning notice-alt">
 		<?php if ( $theme['hasPackage'] ) : ?>
 			<p><?php _e( 'New version available. <button class="button-link" type="button">Update now</button>' ); ?></p>
-		<?php else : ?>
+			<!-- <p>
+				<?php
+					echo print_r($theme);
+				?>
+			</p> -->
+		<?php // else : ?>
+		<?php elseif ( $theme['name'] !== 'Sydney' ) : ?>
 			<p><?php _e( 'New version available.' ); ?></p>
 		<?php endif; ?>
 		</div>
@@ -469,7 +476,7 @@ if ( ! is_multisite() && current_user_can( 'edit_themes' ) && $broken_themes = w
  * The tmpl-theme template is synchronized with PHP above!
  */
 ?>
-<script id="tmpl-theme" type="text/template">
+<!-- <script id="tmpl-theme" type="text/template">
 	<# if ( data.screenshot[0] ) { #>
 		<div class="theme-screenshot">
 			<img src="{{ data.screenshot[0] }}" alt="" />
@@ -521,7 +528,7 @@ if ( ! is_multisite() && current_user_can( 'edit_themes' ) && $broken_themes = w
 			<# } #>
 		</div>
 	</div>
-</script>
+</script> -->
 
 <script id="tmpl-theme-single" type="text/template">
 	<div class="theme-backdrop"></div>
