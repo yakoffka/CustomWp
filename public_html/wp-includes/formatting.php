@@ -214,7 +214,9 @@ function wptexturize( $text, $reset = false ) {
 		$dynamic['/---/'] = $em_dash;
 		$dynamic[ '/(?<=^|' . $spaces . ')--(?=$|' . $spaces . ')/' ] = $em_dash;
 		$dynamic['/(?<!xn)--/']                                       = $en_dash;
-		$dynamic[ '/(?<=^|' . $spaces . ')-(?=$|' . $spaces . ')/' ]  = $en_dash;
+        // yo отключение автозамен
+		// $dynamic[ '/(?<=^|' . $spaces . ')-(?=$|' . $spaces . ')/' ]  = $en_dash;
+
 
 		$dynamic_characters['dash']   = array_keys( $dynamic );
 		$dynamic_replacements['dash'] = array_values( $dynamic );
@@ -3058,12 +3060,13 @@ function wp_targeted_link_rel( $text ) {
 	}
 
 	$text = '';
-	for ( $i = 0; $i < count( $html_parts ); $i++ ) {
-		$text .= $html_parts[ $i ];
-		if ( isset( $extra_parts[ $i ] ) ) {
-			$text .= $extra_parts[ $i ];
-		}
-	}
+    $iMax = count( $html_parts );
+    for ( $i = 0; $i < $iMax; $i++ ) {
+        $text .= $html_parts[ $i ];
+        if ( isset( $extra_parts[ $i ] ) ) {
+            $text .= $extra_parts[ $i ];
+        }
+    }
 
 	return $text;
 }
