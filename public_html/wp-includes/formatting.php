@@ -214,7 +214,7 @@ function wptexturize( $text, $reset = false ) {
 		$dynamic['/---/'] = $em_dash;
 		$dynamic[ '/(?<=^|' . $spaces . ')--(?=$|' . $spaces . ')/' ] = $em_dash;
 		$dynamic['/(?<!xn)--/']                                       = $en_dash;
-        // yo отключение автозамен
+        // yo отключение автозамены '-' на '—'
 		// $dynamic[ '/(?<=^|' . $spaces . ')-(?=$|' . $spaces . ')/' ]  = $en_dash;
 
 
